@@ -1,0 +1,2053 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/cofs7Y72FkRjALbOOOz8q7Uty6h.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "https://www.hanwayfilms.com/the-royal-hotel",
+        "id": 944952,
+        "imdb_id": "tt18363072",
+        "original_language": "en",
+        "original_title": "The Royal Hotel",
+        "overview": "After running out of money while backpacking in a tiny, male-dominated town in the Australian outback, two friends resort to a working holiday at the Royal Hotel. When the locals behavior starts crossing the line, the girls find themselves trapped in an unnerving situation that grows rapidly out of their control.",
+        "popularity": 38.836,
+        "poster_path": "/oJwb2PV1LGxDp6Q3lynrjADxOIv.jpg",
+        "production_companies": [
+            {
+                "id": 7217,
+                "logo_path": "/vFbexaF70wSMUHRA6Fy6UcuA1ju.png",
+                "name": "See-Saw Films",
+                "origin_country": "GB"
+            },
+            {
+                "id": 12128,
+                "logo_path": "/gqN7u1StkZGllkQUKqiLODLRXHb.png",
+                "name": "Scarlett Pictures",
+                "origin_country": "AU"
+            },
+            {
+                "id": 7584,
+                "logo_path": "/eGkfvvyf4fJTvBUR1xt1669IPA3.png",
+                "name": "Screen Australia",
+                "origin_country": "AU"
+            },
+            {
+                "id": 2806,
+                "logo_path": "/vxOhCbpsRBh10m6LZ3HyImTYpPY.png",
+                "name": "South Australian Film Corporation",
+                "origin_country": "AU"
+            },
+            {
+                "id": 10951,
+                "logo_path": "/jxfMNlkvI3GxnS41xCSOLD7goVb.png",
+                "name": "Screen NSW",
+                "origin_country": "AU"
+            },
+            {
+                "id": 2395,
+                "logo_path": "/pZz4qs03FtP6UGtZ3hjQ6qimcwi.png",
+                "name": "HanWay Films",
+                "origin_country": "GB"
+            },
+            {
+                "id": 159766,
+                "logo_path": "/A6yBN3mIr9S0tOtahRCx8rJtwuY.png",
+                "name": "Cross City Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 208048,
+                "logo_path": null,
+                "name": "Alma Margo",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-10-06",
+        "revenue": 877412,
+        "runtime": 91,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Swedish",
+                "iso_639_1": "sv",
+                "name": "svenska"
+            }
+        ],
+        "status": "Released",
+        "tagline": "A fun adventure is all they wanted.",
+        "title": "The Royal Hotel",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bmStpqOfwZt7tUbGZXp3VbSL8a0.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "http://www.simulantmovie.com/",
+        "id": 942199,
+        "imdb_id": "tt13130024",
+        "original_language": "en",
+        "original_title": "Simulant",
+        "overview": "Faye attempts to replace her newly deceased husband, Evan, with an android simulant (SIM). Although SIM Evan appears like human Evan in every way, Faye does not feel the same love for SIM Evan as it does for her. SIM Evan tries to win Faye back while at the same time being on-the-run from a government agent chasing down SIMs who have become \u201cconscious\u201d and could potentially be a threat to humankind.",
+        "popularity": 50.585,
+        "poster_path": "/kmDJhZIq1xnu5ZiMOlb0nHJH1qb.jpg",
+        "production_companies": [
+            {
+                "id": 40157,
+                "logo_path": "/b5QIOxFGZcZCKPlvfUYzaESABKv.png",
+                "name": "Wango Films",
+                "origin_country": "CA"
+            },
+            {
+                "id": 738,
+                "logo_path": "/bLBdowsgMoipjXLi9QpdcZOvPhG.png",
+                "name": "Myriad Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 119056,
+                "logo_path": "/vbhwOf0TQ4z12GIytYGWmhPJAOz.png",
+                "name": "Particular Crowd",
+                "origin_country": "US"
+            },
+            {
+                "id": 64740,
+                "logo_path": "/N9CoGbHpYbA93wogwbKGN3MhDh.png",
+                "name": "Mongrel Media",
+                "origin_country": "CA"
+            },
+            {
+                "id": 20312,
+                "logo_path": "/iYmytRQt5jqlBIEaMQ0Cb6iAHh8.png",
+                "name": "TPC",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "release_date": "2023-03-29",
+        "revenue": 0,
+        "runtime": 95,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Simulant",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 116
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7LPz7NEYtLXcV44j0kRLLkZ54yH.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 20108,
+        "imdb_id": "tt0060138",
+        "original_language": "fr",
+        "original_title": "Au hasard Balthazar",
+        "overview": "The story of a donkey Balthazar as he is passed from owner to owner, some kind and some cruel but all with motivations beyond his understanding. Balthazar, whose life parallels that of his first keeper, Marie, is truly a beast of burden, suffering the sins of humankind. But despite his powerlessness, he accepts his fate nobly.",
+        "popularity": 14.579,
+        "poster_path": "/jcFxAppupS7KMjzLZZgKYLFnjpp.jpg",
+        "production_companies": [
+            {
+                "id": 6116,
+                "logo_path": null,
+                "name": "Argos Films",
+                "origin_country": "FR"
+            },
+            {
+                "id": 14680,
+                "logo_path": null,
+                "name": "Parc Film",
+                "origin_country": "FR"
+            },
+            {
+                "id": 6181,
+                "logo_path": "/eaQ7or8IoEmPfgmQiU2C5lVZkxS.png",
+                "name": "SF Studios",
+                "origin_country": "SE"
+            },
+            {
+                "id": 2302,
+                "logo_path": "/rPXEdpqwFycAY9ZgrAJXv13qcWW.png",
+                "name": "Svenska Filminstitutet",
+                "origin_country": "SE"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "SE",
+                "name": "Sweden"
+            }
+        ],
+        "release_date": "1966-05-25",
+        "revenue": 39388,
+        "runtime": 96,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            },
+            {
+                "english_name": "Latin",
+                "iso_639_1": "la",
+                "name": "Latin"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Au Hasard Balthazar",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 398
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+        "belongs_to_collection": {
+            "id": 230,
+            "name": "The Godfather Collection",
+            "poster_path": "/zqV8MGXfpLZiFVObLxpAI7wWonJ.jpg",
+            "backdrop_path": "/3WZTxpgscsmoUk81TuECXdFOD0R.jpg"
+        },
+        "budget": 6000000,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            }
+        ],
+        "homepage": "http://www.thegodfather.com/",
+        "id": 238,
+        "imdb_id": "tt0068646",
+        "original_language": "en",
+        "original_title": "The Godfather",
+        "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+        "popularity": 145.727,
+        "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "production_companies": [
+            {
+                "id": 4,
+                "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+                "name": "Paramount",
+                "origin_country": "US"
+            },
+            {
+                "id": 10211,
+                "logo_path": null,
+                "name": "Alfran Productions",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1972-03-14",
+        "revenue": 245066411,
+        "runtime": 175,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Italian",
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "english_name": "Latin",
+                "iso_639_1": "la",
+                "name": "Latin"
+            }
+        ],
+        "status": "Released",
+        "tagline": "An offer you can't refuse.",
+        "title": "The Godfather",
+        "video": false,
+        "vote_average": 8.708,
+        "vote_count": 18982
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qnCbFswXZEdpqvtlJEsEp0ugvTR.jpg",
+        "belongs_to_collection": null,
+        "budget": 6000000,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 4918,
+        "imdb_id": "tt0093044",
+        "original_language": "en",
+        "original_title": "The Fourth Protocol",
+        "overview": "Led by Kim Philby, Plan Aurora is a plan that breaches the top-secret Fourth Protocol and turns the fears that shaped it into a living nightmare. A crack Soviet agent, placed under cover in a quiet English country town, begins to assemble a nuclear bomb, whilst an MI5 agent attempts to prevent it's detonation.",
+        "popularity": 10.824,
+        "poster_path": "/qh4JMlyWKttjTUvARdEfqpuvqP0.jpg",
+        "production_companies": [
+            {
+                "id": 364,
+                "logo_path": null,
+                "name": "The Rank Organisation",
+                "origin_country": "GB"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "release_date": "1987-02-24",
+        "revenue": 12423831,
+        "runtime": 119,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Fourth Protocol",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 151
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+        "belongs_to_collection": {
+            "id": 230,
+            "name": "The Godfather Collection",
+            "poster_path": "/zqV8MGXfpLZiFVObLxpAI7wWonJ.jpg",
+            "backdrop_path": "/3WZTxpgscsmoUk81TuECXdFOD0R.jpg"
+        },
+        "budget": 13000000,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            }
+        ],
+        "homepage": "",
+        "id": 240,
+        "imdb_id": "tt0071562",
+        "original_language": "en",
+        "original_title": "The Godfather Part II",
+        "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+        "popularity": 85.148,
+        "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+        "production_companies": [
+            {
+                "id": 4,
+                "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+                "name": "Paramount",
+                "origin_country": "US"
+            },
+            {
+                "id": 536,
+                "logo_path": null,
+                "name": "The Coppola Company",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1974-12-20",
+        "revenue": 102600000,
+        "runtime": 202,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Italian",
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "english_name": "Latin",
+                "iso_639_1": "la",
+                "name": "Latin"
+            },
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Espa\u00f1ol"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Godfather Part II",
+        "video": false,
+        "vote_average": 8.589,
+        "vote_count": 11462
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vWriOBVlgW0XWdgbOiijhyLW7B8.jpg",
+        "belongs_to_collection": {
+            "id": 177467,
+            "name": "Cloudy with a Chance of Meatballs Collection",
+            "poster_path": "/pRAzOs9cZN8LlhaCKo6LQ0bSfyi.jpg",
+            "backdrop_path": "/eANL41F9Zp1xHMD6VnHnD3QS7ui.jpg"
+        },
+        "budget": 78000000,
+        "genres": [
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 10751,
+                "name": "Family"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "",
+        "id": 109451,
+        "imdb_id": "tt1985966",
+        "original_language": "en",
+        "original_title": "Cloudy with a Chance of Meatballs 2",
+        "overview": "After the disastrous food storm in the first film, Flint and his friends are forced to leave the town. Flint accepts the invitation from his idol Chester V to join The Live Corp Company, which has been tasked to clean the island, and where the best inventors in the world create technologies for the betterment of mankind. When Flint discovers that his machine still operates and now creates mutant food beasts like living pickles, hungry tacodiles, shrimpanzees and apple pie-thons, he and his friends must return to save the world.",
+        "popularity": 44.225,
+        "poster_path": "/tT2DN1tWk1zpCxqvaaNY8yP8Awn.jpg",
+        "production_companies": [
+            {
+                "id": 5,
+                "logo_path": "/wrweLpBqRYcAM7kCSaHDJRxKGOP.png",
+                "name": "Columbia Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 2251,
+                "logo_path": "/5ilV5mH3gxTEU7p5wjxptHvXkyr.png",
+                "name": "Sony Pictures Animation",
+                "origin_country": "US"
+            },
+            {
+                "id": 77973,
+                "logo_path": "/9y5lW86HnxKUZOFencYk3TIIRCM.png",
+                "name": "Lord Miller",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2013-09-26",
+        "revenue": 248384621,
+        "runtime": 95,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Something big was leftover.",
+        "title": "Cloudy with a Chance of Meatballs 2",
+        "video": false,
+        "vote_average": 6.439,
+        "vote_count": 2933
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vY31isZyqiF2rDLHEHIud1By1u9.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 270367,
+        "imdb_id": "tt1740826",
+        "original_language": "de",
+        "original_title": "Unter Nachbarn",
+        "overview": "The budding friendship between two very different neighbors takes a tragic turn when David runs over a young woman and causes her death. At Robert's insistence David leaves her lying and flees. While Robert hopes his new neighbor will now be irreversibly bound to him, David is increasingly devoured by feelings of guilt. When he meets Vanessa, the sister of his victim, he believes he can put things right. But he hasn't taken Robert into account. Robert is prepared to do anything to keep his neighbor to himself.",
+        "popularity": 3.714,
+        "poster_path": "/7yNzq5aau5UQRkJalGr5nF6AN44.jpg",
+        "production_companies": [
+            {
+                "id": 87329,
+                "logo_path": "/6ZrqZH4n3ERG8p9zPIaRDbmQKFq.png",
+                "name": "kurhaus production",
+                "origin_country": "DE"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "release_date": "2011-06-12",
+        "revenue": 0,
+        "runtime": 90,
+        "spoken_languages": [
+            {
+                "english_name": "German",
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Good Neighbor",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w4Jvkb6BQGvQ3K3aECMsy6bZln3.jpg",
+        "belongs_to_collection": null,
+        "budget": 94000000,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 10477,
+        "imdb_id": "tt0132245",
+        "original_language": "en",
+        "original_title": "Driven",
+        "overview": "Talented rookie race-car driver Jimmy Bly has started losing his focus and begins to slip in the race rankings. It's no wonder, with the immense pressure being shoveled on him by his overly ambitious promoter brother as well as Bly's romance with his arch rival's girlfriend Sophia. With much riding on Bly, car owner Carl Henry brings former racing star Joe Tanto on board to help Bly. To drive Bly back to the top of the rankings, Tanto must first deal with the emotional scars left over from a tragic racing accident which nearly took his life.",
+        "popularity": 22.956,
+        "poster_path": "/8tJ4Ya8yEyxCMihDumEyvwvUuLB.jpg",
+        "production_companies": [
+            {
+                "id": 1171,
+                "logo_path": null,
+                "name": "Epsilon Motion Pictures",
+                "origin_country": "CH"
+            },
+            {
+                "id": 1403,
+                "logo_path": "/pMTQNUhHCwr39CsS7yUmSg503E7.png",
+                "name": "Franchise Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 10107,
+                "logo_path": null,
+                "name": "Trackform Film Productions",
+                "origin_country": "CA"
+            },
+            {
+                "id": 174,
+                "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+                "name": "Warner Bros. Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            },
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "CH",
+                "name": "Switzerland"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2001-04-27",
+        "revenue": 54744738,
+        "runtime": 116,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "German",
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Espa\u00f1ol"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Get ready for the race of your life.",
+        "title": "Driven",
+        "video": false,
+        "vote_average": 5.138,
+        "vote_count": 652
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aJGSoNe4sjCrYwUtIgkA3x05B43.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "",
+        "id": 12178,
+        "imdb_id": "tt0970468",
+        "original_language": "en",
+        "original_title": "Miss Pettigrew Lives for a Day",
+        "overview": "London, England, on the eve of World War II. Guinevere Pettigrew, a strict governess who is unable to keep a job, is fired again. Lost in the hostile city, a series of fortunate circumstances lead her to meet Delysia LaFosse, a glamorous and dazzling American jazz singer whose life is a chaos ruled by indecision, a continuous battle between love and fame.",
+        "popularity": 11.877,
+        "poster_path": "/A8ylf9VH21E9uxcl7vslJpPXnwQ.jpg",
+        "production_companies": [
+            {
+                "id": 10146,
+                "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+                "name": "Focus Features",
+                "origin_country": "US"
+            },
+            {
+                "id": 3445,
+                "logo_path": "/7Jkq08LdnkxhK9M2LHuIOwHFfX8.png",
+                "name": "Kudos",
+                "origin_country": "GB"
+            },
+            {
+                "id": 16880,
+                "logo_path": null,
+                "name": "Shine Pictures",
+                "origin_country": "GB"
+            },
+            {
+                "id": 20899,
+                "logo_path": null,
+                "name": "Twins Financing",
+                "origin_country": "US"
+            },
+            {
+                "id": 56982,
+                "logo_path": null,
+                "name": "Keylight Productions",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2008-03-07",
+        "revenue": 16724933,
+        "runtime": 92,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Every woman will have her day.",
+        "title": "Miss Pettigrew Lives for a Day",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 367
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c1Ywtvlqls6tPBZ3BqbPtBwHyng.jpg",
+        "belongs_to_collection": {
+            "id": 427084,
+            "name": "The Secret Life of Pets Collection",
+            "poster_path": "/d83LVydlQonKdshwQyLYx48D3LH.jpg",
+            "backdrop_path": "/fAibj0DIT8gk5jQtsEor66QKCsR.jpg"
+        },
+        "budget": 75000000,
+        "genres": [
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 10751,
+                "name": "Family"
+            }
+        ],
+        "homepage": "http://www.thesecretlifeofpets.com/",
+        "id": 328111,
+        "imdb_id": "tt2709768",
+        "original_language": "en",
+        "original_title": "The Secret Life of Pets",
+        "overview": "The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.",
+        "popularity": 17.439,
+        "poster_path": "/g3Hms6AE174doeGR1gz5zX5sVsv.jpg",
+        "production_companies": [
+            {
+                "id": 6704,
+                "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+                "name": "Illumination",
+                "origin_country": "US"
+            },
+            {
+                "id": 33,
+                "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                "name": "Universal Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2016-06-18",
+        "revenue": 875457937,
+        "runtime": 86,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Think this is what they do all day?",
+        "title": "The Secret Life of Pets",
+        "video": false,
+        "vote_average": 6.269,
+        "vote_count": 7711
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/UxGdlGzCx5R5FdY8BDM0FQkyKi.jpg",
+        "belongs_to_collection": {
+            "id": 427084,
+            "name": "The Secret Life of Pets Collection",
+            "poster_path": "/d83LVydlQonKdshwQyLYx48D3LH.jpg",
+            "backdrop_path": "/fAibj0DIT8gk5jQtsEor66QKCsR.jpg"
+        },
+        "budget": 80000000,
+        "genres": [
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 10751,
+                "name": "Family"
+            }
+        ],
+        "homepage": "http://www.thesecretlifeofpets.com",
+        "id": 412117,
+        "imdb_id": "tt5113040",
+        "original_language": "en",
+        "original_title": "The Secret Life of Pets 2",
+        "overview": "Max the terrier must cope with some major life changes when his owner gets married and has a baby. When the family takes a trip to the countryside, nervous Max has numerous run-ins with canine-intolerant cows, hostile foxes and a scary turkey. Luckily for Max, he soon catches a break when he meets Rooster, a gruff farm dog who tries to cure the lovable pooch of his neuroses.",
+        "popularity": 49.416,
+        "poster_path": "/q3mKnSkzp1doIsCye6ap4KIUAbu.jpg",
+        "production_companies": [
+            {
+                "id": 33,
+                "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                "name": "Universal Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 6704,
+                "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+                "name": "Illumination",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2019-05-24",
+        "revenue": 429434163,
+        "runtime": 86,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "They still have their secrets.",
+        "title": "The Secret Life of Pets 2",
+        "video": false,
+        "vote_average": 6.967,
+        "vote_count": 2817
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yYddTCIoWvpVl9hbyqEQV3OsX61.jpg",
+        "belongs_to_collection": null,
+        "budget": 8000000,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 47955,
+        "imdb_id": "tt0084899",
+        "original_language": "en",
+        "original_title": "White Dog",
+        "overview": "A trainer attempts to retrain a vicious dog that\u2019s been raised to kill black people.",
+        "popularity": 10.836,
+        "poster_path": "/2oU700G9pDwFt7px5GxOqDHFPfR.jpg",
+        "production_companies": [
+            {
+                "id": 4,
+                "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+                "name": "Paramount",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1982-07-07",
+        "revenue": 46509,
+        "runtime": 90,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "When man\u2019s best friend becomes his fiercest enemy\u2026",
+        "title": "White Dog",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 240
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aYjgRcI7eRxdmLqPhucxJV5VIm7.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 99,
+                "name": "Documentary"
+            },
+            {
+                "id": 10402,
+                "name": "Music"
+            }
+        ],
+        "homepage": "http://www.hbo.com/documentaries/crossfire-hurricane/index.html",
+        "id": 137285,
+        "imdb_id": "tt2370140",
+        "original_language": "en",
+        "original_title": "Crossfire Hurricane",
+        "overview": "This film is released as part of the ongoing 50th anniversary celebration of the Rolling Stones. It tells the story of the Stones' unparalleled journey from blues obsessed teens in the early 60s to their undisputed status as rock royalty. All of the Stones have been newly interviewed and their words form the narrative arc that links together archive footage of performances, news coverage, and interviews, much of it previously unseen. Taking its title from a lyric in \"Jumpin' Jack Flash,\" this film gives the viewer an intimate insight into exactly what it's like to be part of the Rolling Stones as they overcome denunciation, drugs, dissensions, and death to become the definitive survivors. Over a year in the making and produced with the full cooperation and involvement of the Stones, this film is and will remain the definitive story of the world's greatest rock 'n' roll band",
+        "popularity": 5.106,
+        "poster_path": "/7rGmjuPjtddvMcfrvaRuxIzCUew.jpg",
+        "production_companies": [
+            {
+                "id": 94859,
+                "logo_path": null,
+                "name": "Milkwood",
+                "origin_country": ""
+            },
+            {
+                "id": 58637,
+                "logo_path": "/yLSNxhJzLwYS0OZmLGjwnPcUGUT.png",
+                "name": "Tremolo Productions",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2012-10-18",
+        "revenue": 0,
+        "runtime": 111,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "...The Rise Of The Stones...",
+        "title": "Crossfire Hurricane",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 52
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w7TUrUUo9pKcgY7PCdm2LK6XbZB.jpg",
+        "belongs_to_collection": null,
+        "budget": 28000000,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 10751,
+                "name": "Family"
+            }
+        ],
+        "homepage": "",
+        "id": 23172,
+        "imdb_id": "tt1273678",
+        "original_language": "en",
+        "original_title": "The Spy Next Door",
+        "overview": "Former CIA spy Bob Ho takes on his toughest assignment to date: looking after his girlfriend's three kids, who haven't exactly warmed to their mom's beau. And when one of the youngsters accidentally downloads a top-secret formula, Bob's longtime nemesis, a Russian terrorist, pays a visit to the family.",
+        "popularity": 24.454,
+        "poster_path": "/nJJrceb2xHGIA0irADX0JvWSIHT.jpg",
+        "production_companies": [
+            {
+                "id": 46062,
+                "logo_path": null,
+                "name": "Spy Next Door",
+                "origin_country": ""
+            },
+            {
+                "id": 7295,
+                "logo_path": "/62E1B91PxZw8q4KNkge5Qemo7EM.png",
+                "name": "Relativity Media",
+                "origin_country": "US"
+            },
+            {
+                "id": 3929,
+                "logo_path": null,
+                "name": "Robert Simonds Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 1632,
+                "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+                "name": "Lionsgate",
+                "origin_country": "US"
+            },
+            {
+                "id": 181992,
+                "logo_path": null,
+                "name": "Mandate International",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2010-01-15",
+        "revenue": 66166000,
+        "runtime": 94,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Spying is easy, Babysitting is hard.",
+        "title": "The Spy Next Door",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 1210
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/axmxVeX5R1FfN7w4LNFehskDxW1.jpg",
+        "belongs_to_collection": null,
+        "budget": 75000000,
+        "genres": [
+            {
+                "id": 10751,
+                "name": "Family"
+            },
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            }
+        ],
+        "homepage": "",
+        "id": 366668,
+        "imdb_id": "tt4199898",
+        "original_language": "en",
+        "original_title": "Playmobil: The Movie",
+        "overview": "Marla is forced to abandon her carefully structured life to embark on an epic journey to find her younger brother Charlie who has disappeared into the vast and wondrous animated world of Playmobil toys.",
+        "popularity": 20.727,
+        "poster_path": "/zPQzLZnfVw9fbXyxxglyOsmQBlu.jpg",
+        "production_companies": [
+            {
+                "id": 84713,
+                "logo_path": "/jrdDt2pV5OF6f4JLOhaGUMT3QO9.png",
+                "name": "ON Animation Studios",
+                "origin_country": "FR"
+            },
+            {
+                "id": 84714,
+                "logo_path": null,
+                "name": "Morgen Studios",
+                "origin_country": "DE"
+            },
+            {
+                "id": 10289,
+                "logo_path": "/4lXJcFjACjb34LF78AUjEz4FtB9.png",
+                "name": "DMG Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 113345,
+                "logo_path": "/nEzvhhl0uiLJ65vdAlBhlEuX6T2.png",
+                "name": "Little Dragon Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 212485,
+                "logo_path": null,
+                "name": "2.9 Film Holding",
+                "origin_country": ""
+            },
+            {
+                "id": 212486,
+                "logo_path": null,
+                "name": "Moritz Borman Productions",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2019-06-10",
+        "revenue": 0,
+        "runtime": 99,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Let adventure lead you home.",
+        "title": "Playmobil: The Movie",
+        "video": false,
+        "vote_average": 5.634,
+        "vote_count": 250
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qgzNkm5W11ocek6GJJamUvXRcmr.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 64568,
+        "imdb_id": "tt0055505",
+        "original_language": "en",
+        "original_title": "Taste of Fear",
+        "overview": "A wheelchair-bound young girl returns to her father's estate after ten years, and although she's told he's away, she keeps seeing his dead body on the estate.",
+        "popularity": 11.362,
+        "poster_path": "/k1Eq0XpDAsCkoGUGv5rV8c4uQUs.jpg",
+        "production_companies": [
+            {
+                "id": 1314,
+                "logo_path": "/gQBluDqe6dc2ZdzfJbabEHoSGoG.png",
+                "name": "Hammer Film Productions",
+                "origin_country": "GB"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "release_date": "1961-06-05",
+        "revenue": 0,
+        "runtime": 82,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            },
+            {
+                "english_name": "German",
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "status": "Released",
+        "tagline": "For maximum thrill . . . we earnestly urge you to see this motion picture from the start!",
+        "title": "Taste of Fear",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 114
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xQdWCmtuwOBmjPD1XV5s3bHixGu.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 19740,
+        "imdb_id": "tt0073075",
+        "original_language": "en",
+        "original_title": "The Great Waldo Pepper",
+        "overview": "A biplane pilot who had missed flying in WWI takes up barnstorming and later a movie career in his quest for the glory he had missed.",
+        "popularity": 8.998,
+        "poster_path": "/oe8ew2TXKbAoMTXHjHNIWWZKDBr.jpg",
+        "production_companies": [
+            {
+                "id": 33,
+                "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                "name": "Universal Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1975-03-13",
+        "revenue": 20642922,
+        "runtime": 108,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "It was a time of heroes...of daredevils, and dames...and Waldo",
+        "title": "The Great Waldo Pepper",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 70
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5D9wsIoGLbwbJ4wdvME6Gb6zJNK.jpg",
+        "belongs_to_collection": null,
+        "budget": 8200000,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10751,
+                "name": "Family"
+            },
+            {
+                "id": 10402,
+                "name": "Music"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "",
+        "id": 15121,
+        "imdb_id": "tt0059742",
+        "original_language": "en",
+        "original_title": "The Sound of Music",
+        "overview": "In the years before the Second World War, a tomboyish postulant at an Austrian abbey is hired as a governess in the home of a widowed naval captain with seven children, and brings a new love of life and music into the home.",
+        "popularity": 31.066,
+        "poster_path": "/5qQTu2iGTiQ2UvyGp0beQAZ2rKx.jpg",
+        "production_companies": [
+            {
+                "id": 6304,
+                "logo_path": null,
+                "name": "Robert Wise Productions",
+                "origin_country": ""
+            },
+            {
+                "id": 6305,
+                "logo_path": null,
+                "name": "Argyle Enterprises",
+                "origin_country": ""
+            },
+            {
+                "id": 25,
+                "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+                "name": "20th Century Fox",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1965-03-29",
+        "revenue": 286214286,
+        "runtime": 174,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "German",
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "status": "Released",
+        "tagline": "The happiest sound in all the world!",
+        "title": "The Sound of Music",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 3012
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cgmGPmyeShz9zM9GQM5EEgMutnd.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "https://tickets.greed-film.com/",
+        "id": 567598,
+        "imdb_id": "tt8972256",
+        "original_language": "en",
+        "original_title": "Greed",
+        "overview": "A retail billionaire's 60th birthday party is celebrated in an exclusive hotel on the Greek island of Mykonos.",
+        "popularity": 16.503,
+        "poster_path": "/mZPmDFlVp1BSGQD4QCKHOwbXLfv.jpg",
+        "production_companies": [
+            {
+                "id": 6705,
+                "logo_path": "/e8EXNSfwr5E9d3TR8dHKbQnQK4W.png",
+                "name": "Film4 Productions",
+                "origin_country": "GB"
+            },
+            {
+                "id": 163,
+                "logo_path": null,
+                "name": "Revolution Films",
+                "origin_country": "GB"
+            },
+            {
+                "id": 63520,
+                "logo_path": "/ytQNtv7i4wtkuLyguqRLC0FX8GL.png",
+                "name": "Sony Pictures International Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 5,
+                "logo_path": "/wrweLpBqRYcAM7kCSaHDJRxKGOP.png",
+                "name": "Columbia Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 58,
+                "logo_path": "/voYCwlBHJQANtjvm5MNIkCF1dDH.png",
+                "name": "Sony Pictures Classics",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2019-09-07",
+        "revenue": 0,
+        "runtime": 100,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "The devil is in the retail.",
+        "title": "Greed",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 127
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vlbTPrt664RAIeMYtgnqCYQPfgR.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            }
+        ],
+        "homepage": "https://a24films.com/films/dream-scenario",
+        "id": 823482,
+        "imdb_id": "tt21942866",
+        "original_language": "en",
+        "original_title": "Dream Scenario",
+        "overview": "Hapless family man Paul Matthews finds his life turned upside down when millions of strangers suddenly start seeing him in their dreams. But when his nighttime appearances take a nightmarish turn, Paul is forced to navigate his newfound stardom.",
+        "popularity": 72.591,
+        "poster_path": "/eMaAi8wTI5wON8pp33w3BDuGyZ8.jpg",
+        "production_companies": [
+            {
+                "id": 41077,
+                "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+                "name": "A24",
+                "origin_country": "US"
+            },
+            {
+                "id": 123620,
+                "logo_path": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
+                "name": "Square Peg",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-11-10",
+        "revenue": 1100000,
+        "runtime": 102,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Meet the man of your dreams.",
+        "title": "Dream Scenario",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rK3j5h6xBpxcx5WI9jq7VpkuWQh.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "",
+        "id": 58182,
+        "imdb_id": "tt0045192",
+        "original_language": "en",
+        "original_title": "The Stooge",
+        "overview": "Bill Miller is an unsuccessful Broadway performer until his handlers convince him to enhance his act with a stooge\u2014Ted Rogers, a guy positioned in the audience to be the butt of Bill's jokes. After Ted begins to steal the show, Bill's girlfriend and his pals advise him to make Ted an equal partner.",
+        "popularity": 5.929,
+        "poster_path": "/wcvtSeGtNctQX5NhOMw8kfwHxgS.jpg",
+        "production_companies": [
+            {
+                "id": 4,
+                "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+                "name": "Paramount",
+                "origin_country": "US"
+            },
+            {
+                "id": 87385,
+                "logo_path": null,
+                "name": "Wallis-Hazen Inc.",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1951-11-15",
+        "revenue": 0,
+        "runtime": 100,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "A RIOTOUS MUSICAL RAMPAGE!",
+        "title": "The Stooge",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/o7JVhqMmrex1TPbmuxl8YXVlcfl.jpg",
+        "belongs_to_collection": {
+            "id": 724848,
+            "name": "Shazam! Collection",
+            "poster_path": "/7eskWm1guoeWJ0tLV7aXkyvIzcI.jpg",
+            "backdrop_path": "/vNFGaJCPRnGkDJhzZcEZ3llmcvi.jpg"
+        },
+        "budget": 80000000,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            }
+        ],
+        "homepage": "http://www.shazammovie.com",
+        "id": 287947,
+        "imdb_id": "tt0448115",
+        "original_language": "en",
+        "original_title": "Shazam!",
+        "overview": "A boy is given the ability to become an adult superhero in times of need with a single magic word.",
+        "popularity": 52.255,
+        "poster_path": "/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+        "production_companies": [
+            {
+                "id": 12,
+                "logo_path": "/mevhneWSqbjU22D1MXNd4H9x0r0.png",
+                "name": "New Line Cinema",
+                "origin_country": "US"
+            },
+            {
+                "id": 11565,
+                "logo_path": null,
+                "name": "The Safran Company",
+                "origin_country": "US"
+            },
+            {
+                "id": 73669,
+                "logo_path": "/9JmgzVUNvUN5KhZjmiVHEzPtFCc.png",
+                "name": "Seven Bucks Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 128064,
+                "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+                "name": "DC Films",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2019-03-29",
+        "revenue": 366080049,
+        "runtime": 132,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Just say the word.",
+        "title": "Shazam!",
+        "video": false,
+        "vote_average": 7.029,
+        "vote_count": 8917
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2Lx15Nv0fCmbsPJeJ8RAzIWxRda.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 910858,
+        "imdb_id": "tt16302202",
+        "original_language": "en",
+        "original_title": "The Estate",
+        "overview": "Two sisters attempt to win over their terminally ill, difficult-to-please aunt in hopes of becoming the beneficiaries of her wealthy estate, only to find the rest of their greedy family members have the same idea.",
+        "popularity": 43.83,
+        "poster_path": "/mYgS4djsVj61kzEpX43LklGUfgK.jpg",
+        "production_companies": [
+            {
+                "id": 122034,
+                "logo_path": null,
+                "name": "Signature Films",
+                "origin_country": "GB"
+            },
+            {
+                "id": 79896,
+                "logo_path": null,
+                "name": "Pretty Matches Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 154063,
+                "logo_path": null,
+                "name": "Capstone Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2022-11-04",
+        "revenue": 572062,
+        "runtime": 96,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Where there's a will there's a war.",
+        "title": "The Estate",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 74
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zgQQF04u3OgNBJqClRNby1FPz9s.jpg",
+        "belongs_to_collection": {
+            "id": 893731,
+            "name": "PAW Patrol (Theatrical) Collection",
+            "poster_path": "/gLKJ96C7OqLqDvIS8MxLiKPLf8T.jpg",
+            "backdrop_path": "/gjHZbURgyqjBMHQICu3VZQf41gF.jpg"
+        },
+        "budget": 30000000,
+        "genres": [
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 10751,
+                "name": "Family"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "https://www.pawpatrol.movie",
+        "id": 893723,
+        "imdb_id": "tt15837338",
+        "original_language": "en",
+        "original_title": "PAW Patrol: The Mighty Movie",
+        "overview": "A magical meteor crash lands in Adventure City and gives the PAW Patrol pups superpowers, transforming them into The Mighty Pups.",
+        "popularity": 372.308,
+        "poster_path": "/aTvePCU7exLepwg5hWySjwxojQK.jpg",
+        "production_companies": [
+            {
+                "id": 2348,
+                "logo_path": "/oydqrfwRAm6qqdYbxuMmmPsVi87.png",
+                "name": "Nickelodeon Movies",
+                "origin_country": "US"
+            },
+            {
+                "id": 71738,
+                "logo_path": "/9SiK63A0hOmn3FiLCEqydtE1ZQW.png",
+                "name": "Spin Master",
+                "origin_country": "CA"
+            },
+            {
+                "id": 4,
+                "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+                "name": "Paramount",
+                "origin_country": "US"
+            },
+            {
+                "id": 8649,
+                "logo_path": "/130H7TsGokNIPyGHYZc9ftU3jJ7.png",
+                "name": "Mikros Image",
+                "origin_country": "FR"
+            },
+            {
+                "id": 82552,
+                "logo_path": "/cLEXKtCpRQs0meQwT7HK6u3QmRH.png",
+                "name": "Elevation Pictures",
+                "origin_country": "CA"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-09-21",
+        "revenue": 192400000,
+        "runtime": 92,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Unleash your powers.",
+        "title": "PAW Patrol: The Mighty Movie",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 178
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oZqrwNOhXHJ0oEweDnJXrIaggGI.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            }
+        ],
+        "homepage": "",
+        "id": 227731,
+        "imdb_id": "tt2439190",
+        "original_language": "es",
+        "original_title": "Rodencia y el diente de la princesa",
+        "overview": "A magical adventure begins Once upon a time, within a vast and wild forest there was a fantastic Kingdom called Rodencia, a place where wonderful creatures and powerful wizards lived. It's the story of adventures and love of a small mouse called Edam, a clumsy magician's apprentice and the beautiful and confident mouse Brie, who will have to face many dangerous obstacles in order to obtain the power of the princess's tooth and defeat the troop of rats commanded by the evil Rotex who invades Rodencia (the peaceful kingdom of mice), in order to dominate them and take their treasure. In the middle of the forest; the magic of the light and the darkness, the love and resentment will face together. Edam and Rotex will fight and only one will leave victorious.",
+        "popularity": 4.029,
+        "poster_path": "/vGSGicR20jsVAoNYUwtbikC9Irq.jpg",
+        "production_companies": [
+            {
+                "id": 46611,
+                "logo_path": null,
+                "name": "Red Post",
+                "origin_country": ""
+            },
+            {
+                "id": 6458,
+                "logo_path": "/eT4oMUK7ODM0vvZue8yq3Ojwqf8.png",
+                "name": "INCAA",
+                "origin_country": "AR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            },
+            {
+                "iso_3166_1": "PE",
+                "name": "Peru"
+            }
+        ],
+        "release_date": "2012-10-11",
+        "revenue": 0,
+        "runtime": 87,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Portuguese",
+                "iso_639_1": "pt",
+                "name": "Portugu\u00eas"
+            },
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Espa\u00f1ol"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "A Mouse's Tale",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/93gOZuHazBWulk7b47MCXWVTiqh.jpg",
+        "belongs_to_collection": null,
+        "budget": 45000000,
+        "genres": [
+            {
+                "id": 10751,
+                "name": "Family"
+            },
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 10402,
+                "name": "Music"
+            }
+        ],
+        "homepage": "http://www.stxfilms.com/uglydolls",
+        "id": 454458,
+        "imdb_id": "tt1946502",
+        "original_language": "en",
+        "original_title": "UglyDolls",
+        "overview": "In the adorably different town of Uglyville, weirdness is celebrated, strangeness is special and beauty is embraced as more than meets the eye. After traveling to the other side of a mountain, Moxy and her UglyDoll friends discover Perfection -- a town where more conventional dolls receive training before entering the real world to find the love of a child.",
+        "popularity": 25.544,
+        "poster_path": "/p97LQ1TL95mptVL2AS8Rz1cJCQg.jpg",
+        "production_companies": [
+            {
+                "id": 71194,
+                "logo_path": null,
+                "name": "Original Force Animation",
+                "origin_country": "CN"
+            },
+            {
+                "id": 2787,
+                "logo_path": "/uPqyNmCYnjBUXadIa7JmglQ59Y8.png",
+                "name": "Reel FX Creative Studios",
+                "origin_country": "US"
+            },
+            {
+                "id": 69484,
+                "logo_path": "/2xtmvbEse87LM7OJXVksv7DToZx.png",
+                "name": "Alibaba Pictures Group",
+                "origin_country": "CN"
+            },
+            {
+                "id": 47729,
+                "logo_path": "/5NRpQ7xxmODXAjt2pRWUFMLVzvP.png",
+                "name": "STX Films",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2019-05-01",
+        "revenue": 32450241,
+        "runtime": 87,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "A classic under(doll) story.",
+        "title": "UglyDolls",
+        "video": false,
+        "vote_average": 6.657,
+        "vote_count": 407
+    }
+]

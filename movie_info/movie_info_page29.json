@@ -1,0 +1,1952 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+        "belongs_to_collection": {
+            "id": 10194,
+            "name": "Toy Story Collection",
+            "poster_path": "/rki5qLuwb0xnnE9seehxO9TlLhW.jpg",
+            "backdrop_path": "/9FBwqcd9IRruEDUrTdcaafOMKUq.jpg"
+        },
+        "budget": 175000000,
+        "genres": [
+            {
+                "id": 10751,
+                "name": "Family"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            }
+        ],
+        "homepage": "https://www.pixar.com/feature-films-toy-story-4",
+        "id": 301528,
+        "imdb_id": "tt1979376",
+        "original_language": "en",
+        "original_title": "Toy Story 4",
+        "overview": "Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that's Andy or Bonnie. But when Bonnie adds a reluctant new toy called \"Forky\" to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.",
+        "popularity": 74.275,
+        "poster_path": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+        "production_companies": [
+            {
+                "id": 2,
+                "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+                "name": "Walt Disney Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 3,
+                "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+                "name": "Pixar",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2019-06-19",
+        "revenue": 1073394593,
+        "runtime": 100,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Get Ready to Hit the Road",
+        "title": "Toy Story 4",
+        "video": false,
+        "vote_average": 7.514,
+        "vote_count": 9176
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zZnsfR6BRqtxyLyAhsi2TMukEBx.jpg",
+        "belongs_to_collection": {
+            "id": 39199,
+            "name": "Detective Conan Collection",
+            "poster_path": "/bV6EHK0Q65hHKSoVDeACbc960jQ.jpg",
+            "backdrop_path": "/mwz7lYimh8da0zZHOI41xNd86yH.jpg"
+        },
+        "budget": 0,
+        "genres": [
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            }
+        ],
+        "homepage": "",
+        "id": 1047041,
+        "imdb_id": "tt27521477",
+        "original_language": "ja",
+        "original_title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u9ed2\u9244\u306e\u9b5a\u5f71\uff08\u30b5\u30d6\u30de\u30ea\u30f3\uff09",
+        "overview": "The 26th movie entry in the \u201cDetective Conan\u201d franchise.",
+        "popularity": 118.331,
+        "poster_path": "/ksQ8uNgoWsVH6a0oPB6zx08pOwU.jpg",
+        "production_companies": [
+            {
+                "id": 7164,
+                "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+                "name": "TMS Entertainment",
+                "origin_country": "JP"
+            },
+            {
+                "id": 9149,
+                "logo_path": "/isLUpud9N56ifftJZ4XvzwBBpoG.png",
+                "name": "Shogakukan",
+                "origin_country": "JP"
+            },
+            {
+                "id": 11727,
+                "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+                "name": "Yomiuri Telecasting Corporation",
+                "origin_country": "JP"
+            },
+            {
+                "id": 6755,
+                "logo_path": "/c0ENH8QeZLvCACpzCpwvYMy2SDr.png",
+                "name": "Nippon Television Network Corporation",
+                "origin_country": "JP"
+            },
+            {
+                "id": 12655,
+                "logo_path": "/dfGqf2NoMVPrDywDL90D5HAhBlW.png",
+                "name": "Shogakukan-Shueisha Productions",
+                "origin_country": "JP"
+            },
+            {
+                "id": 882,
+                "logo_path": "/iDw9Xxok1d9WAM2zFicI8p3khTH.png",
+                "name": "TOHO",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "2023-04-14",
+        "revenue": 0,
+        "runtime": 110,
+        "spoken_languages": [
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "\u65e5\u672c\u8a9e"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Detective Conan: Black Iron Submarine",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rRcNmiH55Tz0ugUsDUGmj8Bsa4V.jpg",
+        "belongs_to_collection": null,
+        "budget": 45000000,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "https://www.nohardfeelingsmovie.com",
+        "id": 884605,
+        "imdb_id": "tt15671028",
+        "original_language": "en",
+        "original_title": "No Hard Feelings",
+        "overview": "On the brink of losing her childhood home, Maddie discovers an intriguing job listing: wealthy helicopter parents looking for someone to \u201cdate\u201d their introverted 19-year-old son, Percy, before he leaves for college. To her surprise, Maddie soon discovers the awkward Percy is no sure thing.",
+        "popularity": 148.362,
+        "poster_path": "/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg",
+        "production_companies": [
+            {
+                "id": 117188,
+                "logo_path": null,
+                "name": "Excellent Cadaver",
+                "origin_country": "US"
+            },
+            {
+                "id": 86647,
+                "logo_path": null,
+                "name": "Odenkirk Provissiero Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 5,
+                "logo_path": "/wrweLpBqRYcAM7kCSaHDJRxKGOP.png",
+                "name": "Columbia Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 194285,
+                "logo_path": null,
+                "name": "Saks Picture Company",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-06-15",
+        "revenue": 82995526,
+        "runtime": 104,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Pretty. Awkward.",
+        "title": "No Hard Feelings",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 1769
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+        "belongs_to_collection": {
+            "id": 530064,
+            "name": "The Shining Collection",
+            "poster_path": "/oeuzvbyE1bCsNUndKv1acHbmtmg.jpg",
+            "backdrop_path": "/8L2bt7OWxrVhZPrFPkyZW4rEXzq.jpg"
+        },
+        "budget": 19000000,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 694,
+        "imdb_id": "tt0081505",
+        "original_language": "en",
+        "original_title": "The Shining",
+        "overview": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+        "popularity": 53.457,
+        "poster_path": "/nRj5511mZdTl4saWEPoj9QroTIu.jpg",
+        "production_companies": [
+            {
+                "id": 88,
+                "logo_path": null,
+                "name": "Hawk Films",
+                "origin_country": ""
+            },
+            {
+                "id": 11272,
+                "logo_path": null,
+                "name": "Peregrine",
+                "origin_country": ""
+            },
+            {
+                "id": 734,
+                "logo_path": null,
+                "name": "The Producer Circle Co.",
+                "origin_country": "US"
+            },
+            {
+                "id": 174,
+                "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+                "name": "Warner Bros. Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1980-05-23",
+        "revenue": 44781695,
+        "runtime": 144,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "He came as the caretaker, but this hotel had its own guardians - who'd been there a long time",
+        "title": "The Shining",
+        "video": false,
+        "vote_average": 8.219,
+        "vote_count": 16392
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fvkEWfD5ZIHCcBnV9dPctsYNwVO.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10751,
+                "name": "Family"
+            }
+        ],
+        "homepage": "https://www.savingflora.com",
+        "id": 570488,
+        "imdb_id": "tt5670364",
+        "original_language": "en",
+        "original_title": "Saving Flora",
+        "overview": "Flora is a circus elephant who can no longer perform her tricks. The night before she's scheduled to be euthanized, the circus owner's 14-year old daughter, Dawn, sneaks Flora from the circus. All that stands between them and the safety of the elephant preserve is two hundred kilometers of woods, one raging river, two elephant hunters and the fear of not making it.",
+        "popularity": 10.066,
+        "poster_path": "/txFQFgjVQmQYFYvEFCbUlTJMYcs.jpg",
+        "production_companies": [
+            {
+                "id": 89486,
+                "logo_path": "/oepaJeAi2k0nYeLf06AUxqGPSjR.png",
+                "name": "Dream Factory Group",
+                "origin_country": "CN"
+            },
+            {
+                "id": 17090,
+                "logo_path": "/jBySWM1rnLX2oZ8bXImCGqAB4pr.png",
+                "name": "FJ Productions",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2019-12-06",
+        "revenue": 0,
+        "runtime": 95,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            }
+        ],
+        "status": "Released",
+        "tagline": "How far would you go to save a friend?",
+        "title": "Saving Flora",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 54
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uCAy0n0WHTGU4d3LMJtE0fQxCej.jpg",
+        "belongs_to_collection": {
+            "id": 750822,
+            "name": "The Addams Family (Animated) Collection",
+            "poster_path": "/392omPB0NlpsxEqJkagjdUJeuhb.jpg",
+            "backdrop_path": "/3VfaWlf8wJewGsKSTYhJsY0pnNx.jpg"
+        },
+        "budget": 40000000,
+        "genres": [
+            {
+                "id": 10751,
+                "name": "Family"
+            },
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            }
+        ],
+        "homepage": "https://www.addamsfamily.movie/",
+        "id": 481084,
+        "imdb_id": "tt1620981",
+        "original_language": "en",
+        "original_title": "The Addams Family",
+        "overview": "The Addams family's lives begin to unravel when they face-off against a treacherous, greedy crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.",
+        "popularity": 51.741,
+        "poster_path": "/q1epO0eO8DWu8Vo8tPfvVlzW48T.jpg",
+        "production_companies": [
+            {
+                "id": 75234,
+                "logo_path": null,
+                "name": "Cinesite Animation",
+                "origin_country": "CA"
+            },
+            {
+                "id": 46875,
+                "logo_path": null,
+                "name": "Nitrogen Studios Canada",
+                "origin_country": "CA"
+            },
+            {
+                "id": 13240,
+                "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+                "name": "Bron Studios",
+                "origin_country": "CA"
+            },
+            {
+                "id": 21,
+                "logo_path": "/5Va1Ie5c4sjfEYqixQ3L8qg7fKu.png",
+                "name": "Metro-Goldwyn-Mayer",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2019-10-10",
+        "revenue": 204394183,
+        "runtime": 86,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Think your family is weird?",
+        "title": "The Addams Family",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 2152
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jypNy38bThNz4K6IWDoE7h0xlP2.jpg",
+        "belongs_to_collection": null,
+        "budget": 30000000,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 36,
+                "name": "History"
+            }
+        ],
+        "homepage": "https://www.currentwarmovie.com/home/",
+        "id": 418879,
+        "imdb_id": "tt2140507",
+        "original_language": "en",
+        "original_title": "The Current War",
+        "overview": "Electricity titans Thomas Edison and George Westinghouse compete to create a sustainable system and market it to the American people.",
+        "popularity": 25.086,
+        "poster_path": "/sVSnMjze8BNkJmUxKTGkMEwJig9.jpg",
+        "production_companies": [
+            {
+                "id": 1038,
+                "logo_path": "/o62j8ZNXmRTrq6ThviFWiL9zb8J.png",
+                "name": "Bazelevs Production",
+                "origin_country": "RU"
+            },
+            {
+                "id": 8083,
+                "logo_path": null,
+                "name": "Film Rites",
+                "origin_country": "US"
+            },
+            {
+                "id": 40294,
+                "logo_path": null,
+                "name": "Fourth Floor Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 130808,
+                "logo_path": null,
+                "name": "13 Films",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2018-02-01",
+        "revenue": 12217160,
+        "runtime": 108,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Power changes everything",
+        "title": "The Current War",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 983
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gNjBBkoBHwvKJijC2ThACzTPzmS.jpg",
+        "belongs_to_collection": {
+            "id": 52783,
+            "name": "Wall Street Collection",
+            "poster_path": "/6eT4277jNMQ8qTODYjxoNbYJhgZ.jpg",
+            "backdrop_path": "/sEKYBSwZFFppJ5GmEVxsECr7ilR.jpg"
+        },
+        "budget": 15000000,
+        "genres": [
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 10673,
+        "imdb_id": "tt0094291",
+        "original_language": "en",
+        "original_title": "Wall Street",
+        "overview": "A young and impatient stockbroker is willing to do anything to get to the top, including trading on illegal inside information taken through a ruthless and greedy corporate raider whom takes the youth under his wing.",
+        "popularity": 30.943,
+        "poster_path": "/2tQYq9ntzn2dEwDIGLBSipYPenv.jpg",
+        "production_companies": [
+            {
+                "id": 25,
+                "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+                "name": "20th Century Fox",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1987-12-10",
+        "revenue": 43848069,
+        "runtime": 126,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Every dream has a price.",
+        "title": "Wall Street",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 1869
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6PKiqYYyHFjBrflagsk8TAvPWS2.jpg",
+        "belongs_to_collection": null,
+        "budget": 11000000,
+        "genres": [
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            }
+        ],
+        "homepage": "",
+        "id": 11527,
+        "imdb_id": "tt0082348",
+        "original_language": "en",
+        "original_title": "Excalibur",
+        "overview": "A surreal adaptation of Sir Thomas Malory's \"Le Morte d'Arthur\", chronicling Arthur Pendragon's conception, his rise to the throne, the search by his Knights of the Round Table for the Holy Grail, and ultimately his death.",
+        "popularity": 24.722,
+        "poster_path": "/cTWF6zkr5mUOnheowKODIijWYcN.jpg",
+        "production_companies": [
+            {
+                "id": 41,
+                "logo_path": "/xAot4SSOIHiWQ2WEnVXYGR1lce9.png",
+                "name": "Orion Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 4764,
+                "logo_path": null,
+                "name": "Cinema 84",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "release_date": "1981-04-10",
+        "revenue": 34967437,
+        "runtime": 140,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Forged by a god. Foretold by a wizard. Found by a king.",
+        "title": "Excalibur",
+        "video": false,
+        "vote_average": 6.951,
+        "vote_count": 898
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q5W3ddBLhocYhMUyvEHHhEryfVP.jpg",
+        "belongs_to_collection": null,
+        "budget": 20000000,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            }
+        ],
+        "homepage": "",
+        "id": 405177,
+        "imdb_id": "tt2365580",
+        "original_language": "en",
+        "original_title": "Where'd You Go, Bernadette",
+        "overview": "When architect-turned-recluse Bernadette Fox goes missing prior to a family trip to Antarctica, her 15-year-old daughter Bee goes on a quest with Bernadette's husband to find her.",
+        "popularity": 13.108,
+        "poster_path": "/BziuuZULnGmTRLthEty1QdKSEo.jpg",
+        "production_companies": [
+            {
+                "id": 13184,
+                "logo_path": "/pfUB1a62jSMIqp4Xmaq6z2cgW0B.png",
+                "name": "Annapurna Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 5420,
+                "logo_path": "/dlW4Kh5dNieKNURnymsu57y6fMf.png",
+                "name": "Color Force",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2019-08-16",
+        "revenue": 0,
+        "runtime": 109,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Disappearances can be deceiving",
+        "title": "Where'd You Go, Bernadette",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 595
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 10026,
+        "imdb_id": "tt0447999",
+        "original_language": "en",
+        "original_title": "Hot Tamale",
+        "overview": "A road trip to Los Angeles inadvertently leads a young man from Wyoming into a wild maze of psychotic hit-men, racy women, jewel thieves and a salsa band.",
+        "popularity": 6.639,
+        "poster_path": "/waEUrsiaRf6RCbDqHJVMRZaAKe0.jpg",
+        "production_companies": [
+            {
+                "id": 127742,
+                "logo_path": null,
+                "name": "Riviera Films",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2006-04-23",
+        "revenue": 0,
+        "runtime": 102,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Hot Tamale",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nzMdjuUZ6LR3XheCG5VGwm5vYEY.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            }
+        ],
+        "homepage": "",
+        "id": 431075,
+        "imdb_id": "tt5598292",
+        "original_language": "en",
+        "original_title": "Polaroid",
+        "overview": "High school loner Bird Fitcher has no idea what dark secrets are tied to the mysterious Polaroid vintage camera she stumbles upon, but it doesn't take long to discover that those who have their picture taken meet a tragic end. Bird and her friends must survive one more night as they race to solve the mystery of the haunted Polaroid before it kills them all.",
+        "popularity": 27.703,
+        "poster_path": "/6a1iqhfM0Y31kNPOSNPIuPrsYQ6.jpg",
+        "production_companies": [
+            {
+                "id": 7405,
+                "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+                "name": "Dimension Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 308,
+                "logo_path": "/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png",
+                "name": "The Weinstein Company",
+                "origin_country": "US"
+            },
+            {
+                "id": 74061,
+                "logo_path": null,
+                "name": "Eldorado Films",
+                "origin_country": "NO"
+            },
+            {
+                "id": 829,
+                "logo_path": "/aXqwCvJSCDbTclkxAYfsT1l4Dsa.png",
+                "name": "Vertigo Entertainment",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "NO",
+                "name": "Norway"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2019-01-10",
+        "revenue": 0,
+        "runtime": 88,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Beware This Camera...Once You Take It, It Takes You.",
+        "title": "Polaroid",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 943
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s6awXOxTKYQLSktiIJfI3969dZH.jpg",
+        "belongs_to_collection": null,
+        "budget": 21000000,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            }
+        ],
+        "homepage": "https://www.thehustle.movie/",
+        "id": 449562,
+        "imdb_id": "tt1298644",
+        "original_language": "en",
+        "original_title": "The Hustle",
+        "overview": "Two female scam artists, one low rent and the other high class, compete to swindle a na\u00efve tech prodigy out of his fortune. A remake of the 1988 comedy \"Dirty Rotten Scoundrels.\"",
+        "popularity": 22.084,
+        "poster_path": "/qZniBGQRESLIfxw6GeZLZ2G1osa.jpg",
+        "production_companies": [
+            {
+                "id": 79566,
+                "logo_path": null,
+                "name": "Pin High Productions",
+                "origin_country": ""
+            },
+            {
+                "id": 21,
+                "logo_path": "/5Va1Ie5c4sjfEYqixQ3L8qg7fKu.png",
+                "name": "Metro-Goldwyn-Mayer",
+                "origin_country": "US"
+            },
+            {
+                "id": 102500,
+                "logo_path": "/4kHox5M7GpwQntsKEsfR7vljwv0.png",
+                "name": "Cave 76 Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 115634,
+                "logo_path": null,
+                "name": "Camp Sugar",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2019-05-09",
+        "revenue": 97400000,
+        "runtime": 94,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Danish",
+                "iso_639_1": "da",
+                "name": "Dansk"
+            },
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            },
+            {
+                "english_name": "Dutch",
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            },
+            {
+                "english_name": "German",
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "status": "Released",
+        "tagline": "They're giving dirty rotten men a run for their money",
+        "title": "The Hustle",
+        "video": false,
+        "vote_average": 6.213,
+        "vote_count": 2344
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3CFuFIwtSSQU4Fyd5NnmHnNZq9w.jpg",
+        "belongs_to_collection": null,
+        "budget": 9000000,
+        "genres": [
+            {
+                "id": 10749,
+                "name": "Romance"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "https://www.thesunisalsoastarmovie.com",
+        "id": 508791,
+        "imdb_id": "tt6423362",
+        "original_language": "en",
+        "original_title": "The Sun Is Also a Star",
+        "overview": "Two young New Yorkers begin to fall in love over the course of a single day, as a series of potentially life-altering meetings loom over their heads - hers concerning her family\u2019s deportation to Jamaica, and his concerning an education at Dartmouth.",
+        "popularity": 12.912,
+        "poster_path": "/pYfI62qgone3Ai0tzgxtQq7chDE.jpg",
+        "production_companies": [
+            {
+                "id": 10067,
+                "logo_path": "/p1kZoVNfkVvk7xyJZEposRxcfh8.png",
+                "name": "Alloy Entertainment",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2019-05-16",
+        "revenue": 6800000,
+        "runtime": 100,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Love is a universe all of its own",
+        "title": "The Sun Is Also a Star",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 558
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7DBdVT5KEhjnMLpoejbYylfzd92.jpg",
+        "belongs_to_collection": {
+            "id": 39199,
+            "name": "Detective Conan Collection",
+            "poster_path": "/bV6EHK0Q65hHKSoVDeACbc960jQ.jpg",
+            "backdrop_path": "/mwz7lYimh8da0zZHOI41xNd86yH.jpg"
+        },
+        "budget": 0,
+        "genres": [
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            }
+        ],
+        "homepage": "https://www.conan-movie.jp/",
+        "id": 903939,
+        "imdb_id": "tt19770970",
+        "original_language": "ja",
+        "original_title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u30cf\u30ed\u30a6\u30a3\u30f3\u306e\u82b1\u5ac1",
+        "overview": "Shibuya, Tokyo, is bustling with the Halloween season. A wedding is being held at Shibuya Hikarie, where Detective Miwako Sato of the Metropolitan Police Department is dressed in a wedding dress. While Conan and the other invited guests are watching, an assailant suddenly bursts in, and Detective Wataru Takagi, who was trying to protect Sato, is injured. Takagi survived and the situation was settled, but in Sato's eyes, the image of the grim reaper that she had seen when Detective Matsuda, the man she had been in love with, had been killed in a series of bombings three years ago, overlapped with Takagi's.",
+        "popularity": 15.6,
+        "poster_path": "/i0q3HL4lwcP6MnryO0j66aLFgeR.jpg",
+        "production_companies": [
+            {
+                "id": 7164,
+                "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+                "name": "TMS Entertainment",
+                "origin_country": "JP"
+            },
+            {
+                "id": 165675,
+                "logo_path": null,
+                "name": "V1 studio",
+                "origin_country": "JP"
+            },
+            {
+                "id": 9149,
+                "logo_path": "/isLUpud9N56ifftJZ4XvzwBBpoG.png",
+                "name": "Shogakukan",
+                "origin_country": "JP"
+            },
+            {
+                "id": 11727,
+                "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+                "name": "Yomiuri Telecasting Corporation",
+                "origin_country": "JP"
+            },
+            {
+                "id": 6755,
+                "logo_path": "/c0ENH8QeZLvCACpzCpwvYMy2SDr.png",
+                "name": "Nippon Television Network Corporation",
+                "origin_country": "JP"
+            },
+            {
+                "id": 12655,
+                "logo_path": "/dfGqf2NoMVPrDywDL90D5HAhBlW.png",
+                "name": "Shogakukan-Shueisha Productions",
+                "origin_country": "JP"
+            },
+            {
+                "id": 882,
+                "logo_path": "/iDw9Xxok1d9WAM2zFicI8p3khTH.png",
+                "name": "TOHO",
+                "origin_country": "JP"
+            },
+            {
+                "id": 104392,
+                "logo_path": null,
+                "name": "Audio Planning U",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "2022-04-15",
+        "revenue": 40330183,
+        "runtime": 111,
+        "spoken_languages": [
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "\u65e5\u672c\u8a9e"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Detective Conan: The Bride of Halloween",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 68
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wuqQ2NJ35rynxcT01AWHX5VeRdF.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "https://shoutstudios.shoutfactory.com/then-came-you/",
+        "id": 375785,
+        "imdb_id": "tt4859168",
+        "original_language": "en",
+        "original_title": "Then Came You",
+        "overview": "An American hypochondriac who is working as a baggage handler is forced to confront his fears when a British teenager with a terminal illness enlists him to help her carry out her eccentric bucket list.",
+        "popularity": 15.282,
+        "poster_path": "/658QP5tmBRUlE5JvxOnnmITfG1F.jpg",
+        "production_companies": [
+            {
+                "id": 10290,
+                "logo_path": "/imFSHWEIgpk3YjqIMxafZ6BYT9H.png",
+                "name": "BCDF Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 6626,
+                "logo_path": "/A1BnMoWjzjOrjzpWimyBQkf84mS.png",
+                "name": "Voltage Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2018-12-05",
+        "revenue": 0,
+        "runtime": 97,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Living in the moment is hard to do alone.",
+        "title": "Then Came You",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 437
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zplzc6jxO3SK7Pa4yxVoRY5VflT.jpg",
+        "belongs_to_collection": {
+            "id": 2980,
+            "name": "Ghostbusters Collection",
+            "poster_path": "/sctvCtE1M1rDF4f0W2fMrk2BrGB.jpg",
+            "backdrop_path": "/6Jnlhr2ac8OuDJEowsFLzZY3SXd.jpg"
+        },
+        "budget": 75000000,
+        "genres": [
+            {
+                "id": 14,
+                "name": "Fantasy"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            }
+        ],
+        "homepage": "https://ghostbusters.com/",
+        "id": 425909,
+        "imdb_id": "tt4513678",
+        "original_language": "en",
+        "original_title": "Ghostbusters: Afterlife",
+        "overview": "When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.",
+        "popularity": 68.155,
+        "poster_path": "/ggcBBYgnwrRAdx2vTthSAZDfrrk.jpg",
+        "production_companies": [
+            {
+                "id": 5,
+                "logo_path": "/wrweLpBqRYcAM7kCSaHDJRxKGOP.png",
+                "name": "Columbia Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 13240,
+                "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+                "name": "Bron Studios",
+                "origin_country": "CA"
+            },
+            {
+                "id": 2364,
+                "logo_path": "/oZyR5maGM96jReVgW7oJ7mXN8ts.png",
+                "name": "The Montecito Picture Company",
+                "origin_country": "US"
+            },
+            {
+                "id": 84042,
+                "logo_path": "/hbln3zGw1R6mkfRETOaUbRuAJSI.png",
+                "name": "Ghost Corps",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2021-11-11",
+        "revenue": 191000000,
+        "runtime": 124,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Discover the past. Protect the future.",
+        "title": "Ghostbusters: Afterlife",
+        "video": false,
+        "vote_average": 7.432,
+        "vote_count": 3997
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/54HMwbDcMxFf16sTHF2nPMnZbja.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "",
+        "id": 56520,
+        "imdb_id": "tt0094105",
+        "original_language": "fr",
+        "original_title": "Tandem",
+        "overview": "Michel Mortez travels around France hosting a radio game show he created 25 years ago. He is famous among the average Frenchmen. Rivetot, his assistant and technician, always goes with him. He is the only one who knows what really lies under Mortez's appearance of a playful don Juan. When the program is canceled, Rivetot delays telling Mortez as long as possible... Both malicious and tender, this bitter comedy also shows nostalgia.",
+        "popularity": 6.445,
+        "poster_path": "/iQSg0AnEY69sC0q5ATbkRZlikrz.jpg",
+        "production_companies": [
+            {
+                "id": 874,
+                "logo_path": null,
+                "name": "Cin\u00e9a",
+                "origin_country": ""
+            },
+            {
+                "id": 875,
+                "logo_path": null,
+                "name": "Films A2",
+                "origin_country": "FR"
+            },
+            {
+                "id": 582,
+                "logo_path": "/bEORFnCh6xQ3oQuY6yX6mRRCLvW.png",
+                "name": "Hachette Premi\u00e8re",
+                "origin_country": "FR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "release_date": "1987-06-17",
+        "revenue": 0,
+        "runtime": 86,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Tandem",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 70
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oxTgovZ3TQ8LLxifUm16ROMULP5.jpg",
+        "belongs_to_collection": null,
+        "budget": 6000000,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "https://orionpictures.com/projects/the-prodigy",
+        "id": 532671,
+        "imdb_id": "tt4504044",
+        "original_language": "en",
+        "original_title": "The Prodigy",
+        "overview": "A mother concerned about her young son's disturbing behavior thinks something supernatural may be affecting him.",
+        "popularity": 16.878,
+        "poster_path": "/yyejodyk3lWncVjVhhrEkPctY9o.jpg",
+        "production_companies": [
+            {
+                "id": 19367,
+                "logo_path": null,
+                "name": "Vinson Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 12142,
+                "logo_path": "/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png",
+                "name": "XYZ Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 41,
+                "logo_path": "/xAot4SSOIHiWQ2WEnVXYGR1lce9.png",
+                "name": "Orion Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 21,
+                "logo_path": "/5Va1Ie5c4sjfEYqixQ3L8qg7fKu.png",
+                "name": "Metro-Goldwyn-Mayer",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2019-02-06",
+        "revenue": 21150265,
+        "runtime": 92,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "What's wrong with Miles?",
+        "title": "The Prodigy",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 911
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qKy85RbA1Ka7WZOwJQUenza68VL.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 115821,
+        "imdb_id": "tt1990217",
+        "original_language": "es",
+        "original_title": "El artista y la modelo",
+        "overview": "In occupied France in summer 1943, a world-weary famous sculptor finds the desire to work again with the arrival of a beautiful young Spanish refugee.",
+        "popularity": 4.995,
+        "poster_path": "/awF6UYJDLqPpR79jQwJg7Jlq4vy.jpg",
+        "production_companies": [
+            {
+                "id": 11424,
+                "logo_path": null,
+                "name": "Fernando Trueba PC",
+                "origin_country": "ES"
+            },
+            {
+                "id": 981,
+                "logo_path": "/pkrdO9ykplO4Zc8edikoSX5APUN.png",
+                "name": "TVE",
+                "origin_country": "ES"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "release_date": "2012-09-28",
+        "revenue": 0,
+        "runtime": 104,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Artist and the Model",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aHcNu3tYihvkL45CrXTFY4YfrfF.jpg",
+        "belongs_to_collection": null,
+        "budget": 60000000,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "https://www.vice.movie",
+        "id": 429197,
+        "imdb_id": "tt6266538",
+        "original_language": "en",
+        "original_title": "Vice",
+        "overview": "George W. Bush picks Dick Cheney, the CEO of Halliburton Co., to be his Republican running mate in the 2000 presidential election. No stranger to politics, Cheney's impressive r\u00e9sum\u00e9 includes stints as White House chief of staff, House Minority Whip and Defense Secretary. When Bush wins by a narrow margin, Cheney begins to use his newfound power to help reshape the country and the world.",
+        "popularity": 22.251,
+        "poster_path": "/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+        "production_companies": [
+            {
+                "id": 81,
+                "logo_path": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
+                "name": "Plan B Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 4740,
+                "logo_path": "/20IuOPEwlHRXnn0MTOsEmw0wcql.png",
+                "name": "Gary Sanchez Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 13184,
+                "logo_path": "/pfUB1a62jSMIqp4Xmaq6z2cgW0B.png",
+                "name": "Annapurna Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2018-12-25",
+        "revenue": 76073488,
+        "runtime": 132,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "The untold true story that changed the course of history.",
+        "title": "Vice",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 3115
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6CsuEnJUbrHb2xVLgkB4zxb1Kta.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 33205,
+        "imdb_id": "tt0065649",
+        "original_language": "ja",
+        "original_title": "\u3069\u3067\u3059\u304b\u3067\u3093",
+        "overview": "This film follows the daily lives of a group of people barely scraping by in a slum on the outskirts of Tokyo. Yet as desperate as their circumstances are, each of them\u2014the homeless father and son envisioning their dream house; the young woman abused by her uncle; the boy who imagines himself a trolley conductor\u2014finds reasons to carry on.",
+        "popularity": 10.448,
+        "poster_path": "/gP9pM94ATcZGfKQ3faKy0a3dVIi.jpg",
+        "production_companies": [
+            {
+                "id": 62958,
+                "logo_path": null,
+                "name": "Yonki-no-Kai Productions",
+                "origin_country": ""
+            },
+            {
+                "id": 882,
+                "logo_path": "/iDw9Xxok1d9WAM2zFicI8p3khTH.png",
+                "name": "TOHO",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "1970-10-01",
+        "revenue": 0,
+        "runtime": 140,
+        "spoken_languages": [
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "\u65e5\u672c\u8a9e"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Dodes'ka-den",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 118
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tIG8FwHRiHLOlWJdizp2oxdkSL2.jpg",
+        "belongs_to_collection": {
+            "id": 1025281,
+            "name": "Constantine Collection",
+            "poster_path": "/wfV9uKdkbEguX5XfNZ80G6jeb4z.jpg",
+            "backdrop_path": "/44TlYuWbWBpRY3i0Ch7MJtLv4Yd.jpg"
+        },
+        "budget": 100000000,
+        "genres": [
+            {
+                "id": 14,
+                "name": "Fantasy"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "https://www.warnerbros.com/movies/constantine",
+        "id": 561,
+        "imdb_id": "tt0360486",
+        "original_language": "en",
+        "original_title": "Constantine",
+        "overview": "John Constantine has literally been to Hell and back. When he teams up with a policewoman to solve the mysterious suicide of her twin sister, their investigation takes them through the world of demons and angels that exists beneath the landscape of contemporary Los Angeles.",
+        "popularity": 62.465,
+        "poster_path": "/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg",
+        "production_companies": [
+            {
+                "id": 79,
+                "logo_path": "/tpFpsqbleCzEE2p5EgvUq6ozfCA.png",
+                "name": "Village Roadshow Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 430,
+                "logo_path": null,
+                "name": "Lonely Film Productions GmbH & Co. KG.",
+                "origin_country": "DE"
+            },
+            {
+                "id": 431,
+                "logo_path": "/6dcR1MbRqYgt3jUVYxkHe68GFnZ.png",
+                "name": "The Donners' Company",
+                "origin_country": "US"
+            },
+            {
+                "id": 432,
+                "logo_path": null,
+                "name": "Batfilm Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 433,
+                "logo_path": null,
+                "name": "Weed Road Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 174,
+                "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+                "name": "Warner Bros. Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 787,
+                "logo_path": "/cCefBs1t7jxtiz3eCxBp9yxrxGx.png",
+                "name": "3 Arts Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 165407,
+                "logo_path": "/5fnvtywvYSkskSJr99VcR3x9RTE.png",
+                "name": "DC Vertigo",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2005-02-08",
+        "revenue": 230884728,
+        "runtime": 121,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Latin",
+                "iso_639_1": "la",
+                "name": "Latin"
+            },
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Espa\u00f1ol"
+            },
+            {
+                "english_name": "Tagalog",
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "status": "Released",
+        "tagline": "Hell wants him. Heaven won't take him. Earth needs him.",
+        "title": "Constantine",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 6612
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wOfzdzC0QZyhUIlyjeMuUYSb8Ax.jpg",
+        "belongs_to_collection": null,
+        "budget": 878000,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "",
+        "id": 289,
+        "imdb_id": "tt0034583",
+        "original_language": "en",
+        "original_title": "Casablanca",
+        "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+        "popularity": 35.243,
+        "poster_path": "/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+        "production_companies": [
+            {
+                "id": 174,
+                "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+                "name": "Warner Bros. Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1943-01-15",
+        "revenue": 10462500,
+        "runtime": 102,
+        "spoken_languages": [
+            {
+                "english_name": "German",
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            },
+            {
+                "english_name": "Italian",
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "They had a date with fate in Casablanca!",
+        "title": "Casablanca",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 5001
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dgfgoHamsfCTW7UgxI7cfnJLNEo.jpg",
+        "belongs_to_collection": {
+            "id": 52783,
+            "name": "Wall Street Collection",
+            "poster_path": "/6eT4277jNMQ8qTODYjxoNbYJhgZ.jpg",
+            "backdrop_path": "/sEKYBSwZFFppJ5GmEVxsECr7ilR.jpg"
+        },
+        "budget": 70000000,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            }
+        ],
+        "homepage": "http://www.wallstreetmoneyneversleeps.com/",
+        "id": 33909,
+        "imdb_id": "tt1027718",
+        "original_language": "en",
+        "original_title": "Wall Street: Money Never Sleeps",
+        "overview": "As the global economy teeters on the brink of disaster, a young Wall Street trader partners with disgraced former Wall Street corporate raider Gordon Gekko on a two tiered mission: To alert the financial community to the coming doom, and to find out who was responsible for the death of the young trader's mentor.",
+        "popularity": 19.311,
+        "poster_path": "/i9DFTWbD6mpM6UT3HlzZwlA92l4.jpg",
+        "production_companies": [
+            {
+                "id": 6455,
+                "logo_path": null,
+                "name": "Pressman Film",
+                "origin_country": "US"
+            },
+            {
+                "id": 6332,
+                "logo_path": null,
+                "name": "Dune Entertainment III",
+                "origin_country": "US"
+            },
+            {
+                "id": 444,
+                "logo_path": null,
+                "name": "Dune Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 25,
+                "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+                "name": "20th Century Fox",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2010-09-20",
+        "revenue": 134748021,
+        "runtime": 133,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Gordon never gives up.",
+        "title": "Wall Street: Money Never Sleeps",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 1407
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/t3wX0hMH0esnx4SZEbugYCnCoMl.jpg",
+        "belongs_to_collection": null,
+        "budget": 37000000,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            }
+        ],
+        "homepage": "",
+        "id": 10658,
+        "imdb_id": "tt0091225",
+        "original_language": "en",
+        "original_title": "Howard the Duck",
+        "overview": "A scientific experiment unknowingly brings extraterrestrial life forms to the Earth through a laser beam. First is the cigar smoking drake Howard from the duck's planet. A few kids try to keep him from the greedy scientists and help him back to his planet. But then a much less friendly being arrives through the beam...",
+        "popularity": 18.006,
+        "poster_path": "/eU0dWo8PJgsSAZFbcyHiUpuLSyW.jpg",
+        "production_companies": [
+            {
+                "id": 1,
+                "logo_path": "/o86DbpburjxrqAzEDhXZcyE8pDb.png",
+                "name": "Lucasfilm Ltd.",
+                "origin_country": "US"
+            },
+            {
+                "id": 33,
+                "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                "name": "Universal Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 7505,
+                "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+                "name": "Marvel Entertainment",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1986-08-01",
+        "revenue": 37962774,
+        "runtime": 110,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "You will believe that a duck can talk.",
+        "title": "Howard the Duck",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 922
+    }
+]

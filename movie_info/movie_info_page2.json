@@ -1,0 +1,1523 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/pRBCb6Hs6Xo4diXwpnBTcwMizE.jpg",
+        "belongs_to_collection": null,
+        "budget": 1814462,
+        "genres": [
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "https://www.getcarterfilm.co.uk/",
+        "id": 1485,
+        "imdb_id": "tt0067128",
+        "original_language": "en",
+        "original_title": "Get Carter",
+        "overview": "Jack Carter is a small-time hood working in London. When word reaches him of his brother's death, he travels to Newcastle to attend the funeral. Refusing to accept the police report of suicide, Carter seeks out his brother\u2019s friends and acquaintances to learn who murdered his sibling and why.",
+        "popularity": 17.781,
+        "poster_path": "/suvNK1hd7LnVhsumteyflDGlrgL.jpg",
+        "production_companies": [
+            {
+                "id": 21,
+                "logo_path": "/5Va1Ie5c4sjfEYqixQ3L8qg7fKu.png",
+                "name": "Metro-Goldwyn-Mayer",
+                "origin_country": "US"
+            },
+            {
+                "id": 5579,
+                "logo_path": null,
+                "name": "Metro-Goldwyn-Mayer British Studios",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "release_date": "1971-02-03",
+        "revenue": 0,
+        "runtime": 112,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "What happens when a professional killer violates the code? Get Carter!",
+        "title": "Get Carter",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 430
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/466rctGWbwVdLg7wSyJRd5UE9ci.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "",
+        "id": 25925,
+        "imdb_id": "tt0108560",
+        "original_language": "en",
+        "original_title": "Who's the Man?",
+        "overview": "Ed Lover and Doctor Dre are two inept barbers. Deciding that maybe they ought to find another line of work, they join the police. A big mistake, as far as their duty sergeant, Sgt Cooper is concerned, who proceeds to harass them at every turn. Despite this, they discover a major crime, and proceed to solve it in their own unusual fashion.",
+        "popularity": 5.509,
+        "poster_path": "/zgRLvO8cnPsKKPIzNwlbuoeoY0d.jpg",
+        "production_companies": [
+            {
+                "id": 21508,
+                "logo_path": null,
+                "name": "De Passe Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 12,
+                "logo_path": "/mevhneWSqbjU22D1MXNd4H9x0r0.png",
+                "name": "New Line Cinema",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1993-04-23",
+        "revenue": 0,
+        "runtime": 85,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "The First Hip-Hop Whodunnit!",
+        "title": "Who's the Man?",
+        "video": false,
+        "vote_average": 5.104,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iCJeq8mztiRJ013ZG8Ss6V6qyQi.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 1008038,
+        "imdb_id": "tt13456340",
+        "original_language": "en",
+        "original_title": "Riceboy Sleeps",
+        "overview": "Set in the 90s, a Korean single mother raises her young son in the suburbs of Canada determined to provide a better life for him than the one she left behind.",
+        "popularity": 13.488,
+        "poster_path": "/l5oRelLHUSMbxma0NAjkB0raPYY.jpg",
+        "production_companies": [
+            {
+                "id": 182494,
+                "logo_path": null,
+                "name": "Lonesome Heroes Productions",
+                "origin_country": "CA"
+            },
+            {
+                "id": 182496,
+                "logo_path": null,
+                "name": "A Lasting Dose Productions",
+                "origin_country": "CA"
+            },
+            {
+                "id": 182495,
+                "logo_path": null,
+                "name": "Kind Stranger Productions",
+                "origin_country": "CA"
+            },
+            {
+                "id": 806,
+                "logo_path": "/kcNh09qqR2Pkw1JAzRW4CommrW4.png",
+                "name": "T\u00e9l\u00e9film Canada",
+                "origin_country": "CA"
+            },
+            {
+                "id": 157740,
+                "logo_path": "/psBLfwHCfU9A4U9bWmeWF8AlSqr.png",
+                "name": "Crave",
+                "origin_country": "CA"
+            },
+            {
+                "id": 22208,
+                "logo_path": null,
+                "name": "Harold Greenberg Fund",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "release_date": "2023-03-17",
+        "revenue": 0,
+        "runtime": 117,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Korean",
+                "iso_639_1": "ko",
+                "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Riceboy Sleeps",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a5zBQfXmLk3qqRYF7AioWpiAxk2.jpg",
+        "belongs_to_collection": null,
+        "budget": 15000000,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10752,
+                "name": "War"
+            }
+        ],
+        "homepage": "",
+        "id": 11778,
+        "imdb_id": "tt0077416",
+        "original_language": "en",
+        "original_title": "The Deer Hunter",
+        "overview": "A group of working-class friends decide to enlist in the Army during the Vietnam War and finds it to be hellish chaos -- not the noble venture they imagined. Before they left, Steven married his pregnant girlfriend -- and Michael and Nick were in love with the same woman. But all three are different men upon their return.",
+        "popularity": 38.159,
+        "poster_path": "/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+        "production_companies": [
+            {
+                "id": 33,
+                "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                "name": "Universal Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 538,
+                "logo_path": null,
+                "name": "EMI Films",
+                "origin_country": "GB"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1978-12-08",
+        "revenue": 49000000,
+        "runtime": 183,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            },
+            {
+                "english_name": "Russian",
+                "iso_639_1": "ru",
+                "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            },
+            {
+                "english_name": "Vietnamese",
+                "iso_639_1": "vi",
+                "name": "Ti\u1ebfng Vi\u1ec7t"
+            }
+        ],
+        "status": "Released",
+        "tagline": "One of the most important and powerful films of all time!",
+        "title": "The Deer Hunter",
+        "video": false,
+        "vote_average": 7.999,
+        "vote_count": 3455
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a17F3zXnmuwqxfiDa46mtlosjrv.jpg",
+        "belongs_to_collection": {
+            "id": 893731,
+            "name": "PAW Patrol (Theatrical) Collection",
+            "poster_path": "/gLKJ96C7OqLqDvIS8MxLiKPLf8T.jpg",
+            "backdrop_path": "/gjHZbURgyqjBMHQICu3VZQf41gF.jpg"
+        },
+        "budget": 26000000,
+        "genres": [
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 10751,
+                "name": "Family"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "https://www.pawpatrol.movie",
+        "id": 675445,
+        "imdb_id": "tt11832046",
+        "original_language": "en",
+        "original_title": "PAW Patrol: The Movie",
+        "overview": "Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.",
+        "popularity": 106.249,
+        "poster_path": "/ic0intvXZSfBlYPIvWXpU1ivUCO.jpg",
+        "production_companies": [
+            {
+                "id": 71738,
+                "logo_path": "/9SiK63A0hOmn3FiLCEqydtE1ZQW.png",
+                "name": "Spin Master",
+                "origin_country": "CA"
+            },
+            {
+                "id": 2348,
+                "logo_path": "/oydqrfwRAm6qqdYbxuMmmPsVi87.png",
+                "name": "Nickelodeon Movies",
+                "origin_country": "US"
+            },
+            {
+                "id": 4,
+                "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+                "name": "Paramount",
+                "origin_country": "US"
+            },
+            {
+                "id": 8649,
+                "logo_path": "/130H7TsGokNIPyGHYZc9ftU3jJ7.png",
+                "name": "Mikros Image",
+                "origin_country": "FR"
+            },
+            {
+                "id": 82552,
+                "logo_path": "/cLEXKtCpRQs0meQwT7HK6u3QmRH.png",
+                "name": "Elevation Pictures",
+                "origin_country": "CA"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2021-08-09",
+        "revenue": 144327371,
+        "runtime": 86,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Our fate is in their paws.",
+        "title": "PAW Patrol: The Movie",
+        "video": false,
+        "vote_average": 7.424,
+        "vote_count": 1166
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pi5kKVpy2mOzTD37wlXegmTLtwq.jpg",
+        "belongs_to_collection": {
+            "id": 1071118,
+            "name": "Ars\u00e8ne Lupin (French) Collection",
+            "poster_path": "/pQtUZG4xF0189dC2m9oR3woWGEO.jpg",
+            "backdrop_path": "/jd2d2xD9bS62chKiHweRxUd8YDL.jpg"
+        },
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "",
+        "id": 4719,
+        "imdb_id": "tt0055759",
+        "original_language": "fr",
+        "original_title": "Ars\u00e8ne Lupin contre Ars\u00e8ne Lupin",
+        "overview": "Andr\u00e9 Laroche, an industrialist, has just passed away. Face to his grave, as he is being buried, Anne de Vierne, the wife of a magistrate, confesses to her son Fran\u00e7ois that Laroche was in fact Lupin and that he is his natural child. But he is not the gentleman thief's only offspring! Lupin had indeed another son by a housemaid, G\u00e9rard Dagmar, a dancer, magician and - occasionally - burglar. Which complicates the task of Fran\u00e7ois who, to respect the last wishes of the testator, has gone in search of the treasure of Poldavia. For he keeps finding G\u00e9rard on his way and his efforts are constantly thwarted by his half-brother. Will G\u00e9rard prevent Fran\u00e7ois from becoming the worthy successor to their father or will the two young men decide to join forces? That is the question.",
+        "popularity": 2.943,
+        "poster_path": "/kFAAf3imyD9fmM60T7aRXeihigA.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "release_date": "1962-09-01",
+        "revenue": 0,
+        "runtime": 90,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Ars\u00e8ne Lupin vs. Ars\u00e8ne Lupin",
+        "video": false,
+        "vote_average": 6.45,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/49rQkLwYxUK7zQP69e87MspS4E2.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 15600,
+        "imdb_id": "tt0084335",
+        "original_language": "en",
+        "original_title": "Missing",
+        "overview": "Based on the real-life experiences of Ed Horman. A conservative American businessman travels to Chile to investigate the sudden disappearance of his son after a military takeover. Accompanied by his son's wife he uncovers a trail of cover-ups that implicate the US State department which supports the dictatorship.",
+        "popularity": 13.927,
+        "poster_path": "/z8K4EIb8wxHaHnfU4MXywkZ6VYO.jpg",
+        "production_companies": [
+            {
+                "id": 33,
+                "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                "name": "Universal Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1982-02-12",
+        "revenue": 14000000,
+        "runtime": 123,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Espa\u00f1ol"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Charlie Horman thought that being an American would guarantee his safety. His family believed that being Americans would guarantee them the truth. They were all wrong.",
+        "title": "Missing",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 340
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vwsr9XcUgnzuMkrvVBTfyTRmfDw.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            }
+        ],
+        "homepage": "https://aninterviewwithgod.com",
+        "id": 534338,
+        "imdb_id": "tt5779372",
+        "original_language": "en",
+        "original_title": "An Interview with God",
+        "overview": "An up-and-coming journalist finds his world and faith increasingly challenged when he's granted the interview of a lifetime \u2013 with someone who claims to be God.",
+        "popularity": 34.702,
+        "poster_path": "/d9TeB8VLCgwSph2OSYK3lcHGf1f.jpg",
+        "production_companies": [
+            {
+                "id": 106405,
+                "logo_path": "/loAbuz9SPCa9rrDPskWBOQ6rJlI.png",
+                "name": "Astute Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 68117,
+                "logo_path": null,
+                "name": "Giving Films",
+                "origin_country": ""
+            },
+            {
+                "id": 6831,
+                "logo_path": "/fWSI4EjIDEEzCNJC8OTPX9Pdbxv.png",
+                "name": "Big Indie Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2018-08-20",
+        "revenue": 0,
+        "runtime": 97,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "What would you ask?",
+        "title": "An Interview with God",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 237
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f5xCw22fOR6DgDRCpDFGkPbKbmY.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 14,
+                "name": "Fantasy"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            }
+        ],
+        "homepage": "http://finecut.co.kr/html/fulltitle-view.php?no=213",
+        "id": 560527,
+        "imdb_id": "tt9759978",
+        "original_language": "ko",
+        "original_title": "\ub0b4\uc548\uc758 \uadf8\ub188",
+        "overview": "Dong-hyun is a high school student. One day, he falls from the rooftop and bumps into Pan-soo who is a passerby. Pan-soo is a member of a criminal organization. When the two men wake up in the hospital, they discover that they have switched bodies.",
+        "popularity": 13.255,
+        "poster_path": "/3H97tUK5UmgOpjCh6Q7XZ4HW1cG.jpg",
+        "production_companies": [
+            {
+                "id": 113586,
+                "logo_path": "/1ttGM0XnnO82aKJwWp4iBrveK7G.png",
+                "name": "The Contents On",
+                "origin_country": "KR"
+            },
+            {
+                "id": 113587,
+                "logo_path": null,
+                "name": "EchoFilm",
+                "origin_country": "KR"
+            },
+            {
+                "id": 114519,
+                "logo_path": "/omfLDgUXKmXly7T7bWBpKstq3HP.png",
+                "name": "Merry Christmas",
+                "origin_country": "KR"
+            },
+            {
+                "id": 20359,
+                "logo_path": null,
+                "name": "The Pictures with a View",
+                "origin_country": "KR"
+            },
+            {
+                "id": 11590,
+                "logo_path": "/7OOrgnVw0RAX3tq8ikWUmNud8qT.png",
+                "name": "Finecut",
+                "origin_country": "KR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "release_date": "2019-01-09",
+        "revenue": 14651772,
+        "runtime": 122,
+        "spoken_languages": [
+            {
+                "english_name": "Korean",
+                "iso_639_1": "ko",
+                "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+            }
+        ],
+        "status": "Released",
+        "tagline": "A body swap that changed everything.",
+        "title": "The Dude in Me",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 120
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/upZu3Zgnm9ZP5L6kGE2WcbnhpS8.jpg",
+        "belongs_to_collection": null,
+        "budget": 30000000,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "",
+        "id": 39964,
+        "imdb_id": "tt0120836",
+        "original_language": "en",
+        "original_title": "Lost & Found",
+        "overview": "In order to impress his beautiful French neighbor, Dylan Ramsey dognaps her pet pooch so he can return him and become a hero.",
+        "popularity": 11.055,
+        "poster_path": "/wWfQyBJL0NaN6sbZha5KuqTfaHy.jpg",
+        "production_companies": [
+            {
+                "id": 40675,
+                "logo_path": null,
+                "name": "Dinamo Entertainment",
+                "origin_country": ""
+            },
+            {
+                "id": 1088,
+                "logo_path": "/9WOE5AQUXbOtLU6GTwfjS8OMF0v.png",
+                "name": "Alcon Entertainment",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1999-04-23",
+        "revenue": 6552255,
+        "runtime": 95,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "A comedy about a guy who would do anything to get the girl of his dreams - and did!",
+        "title": "Lost & Found",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 85
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg",
+        "belongs_to_collection": null,
+        "budget": 80000000,
+        "genres": [
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "https://www.20thcenturystudios.com/movies/the-creator",
+        "id": 670292,
+        "imdb_id": "tt11858890",
+        "original_language": "en",
+        "original_title": "The Creator",
+        "overview": "Amid a future war between the human race and the forces of artificial intelligence, a hardened ex-special forces agent grieving the disappearance of his wife, is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war\u2014and mankind itself.",
+        "popularity": 1677.846,
+        "poster_path": "/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg",
+        "production_companies": [
+            {
+                "id": 10104,
+                "logo_path": "/wRn5HnYMGeJHmItRypgOZOC6gwY.png",
+                "name": "New Regency Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 8147,
+                "logo_path": "/q6HOAdSNgCbeOqwoMVRc6REgbXF.png",
+                "name": "Entertainment One",
+                "origin_country": "CA"
+            },
+            {
+                "id": 508,
+                "logo_path": "/7cxRWzi4LsVm4Utfpr1hfARNurT.png",
+                "name": "Regency Enterprises",
+                "origin_country": "US"
+            },
+            {
+                "id": 206867,
+                "logo_path": null,
+                "name": "Bad Dreams",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-09-27",
+        "revenue": 104000000,
+        "runtime": 134,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "\u65e5\u672c\u8a9e"
+            },
+            {
+                "english_name": "Thai",
+                "iso_639_1": "th",
+                "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+            },
+            {
+                "english_name": "Vietnamese",
+                "iso_639_1": "vi",
+                "name": "Ti\u1ebfng Vi\u1ec7t"
+            }
+        ],
+        "status": "Released",
+        "tagline": "This is a fight for our very existence.",
+        "title": "The Creator",
+        "video": false,
+        "vote_average": 7.153,
+        "vote_count": 1068
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cZRcHeM3pwIPOomIkGlEUpIpWF.jpg",
+        "belongs_to_collection": null,
+        "budget": 12000000,
+        "genres": [
+            {
+                "id": 99,
+                "name": "Documentary"
+            },
+            {
+                "id": 10402,
+                "name": "Music"
+            }
+        ],
+        "homepage": "http://www.katyperry.com/movie/",
+        "id": 101267,
+        "imdb_id": "tt2215719",
+        "original_language": "en",
+        "original_title": "Katy Perry: Part of Me",
+        "overview": "Giving fans unprecedented access to the real life of the music sensation, Katy Perry: Part of Me exposes the hard work, dedication and phenomenal talent of a girl who remained true to herself and her vision in order to achieve her dreams. Featuring rare behind-the-scenes interviews, personal moments between Katy and her friends, and all-access footage of rehearsals, choreography, Katy\u2019s signature style and more, Katy Perry: Part of Me reveals the singer\u2019s unwavering belief that if you can be yourself, then you can be anything.",
+        "popularity": 15.019,
+        "poster_path": "/yPW5Lmptt7z8rCYtVYjkpyjI3SY.jpg",
+        "production_companies": [
+            {
+                "id": 23,
+                "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+                "name": "Imagine Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 746,
+                "logo_path": "/kc7bdIVTBkJYy9aDK1QDDTAL463.png",
+                "name": "MTV Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 7377,
+                "logo_path": "/zdVYfWyiQmLgyq8V73HRHpCWjRO.png",
+                "name": "Insurge Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 4,
+                "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+                "name": "Paramount",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2012-06-28",
+        "revenue": 32726956,
+        "runtime": 93,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Be yourself and you can be anything",
+        "title": "Katy Perry: Part of Me",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 264
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/csz3oWxd04wgXUzenXgenIVwXGl.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "https://www.amazon.com/dp/B0BYST2QY1",
+        "id": 930094,
+        "imdb_id": "tt10172266",
+        "original_language": "en",
+        "original_title": "Red, White & Royal Blue",
+        "overview": "After an altercation between Alex, the president's son, and Britain's Prince Henry at a royal event becomes tabloid fodder, their long-running feud now threatens to drive a wedge in U.S./British relations. When the rivals are forced into a staged truce, their icy relationship begins to thaw and the friction between them sparks something deeper than they ever expected.",
+        "popularity": 71.235,
+        "poster_path": "/uffOY4W354o9RTRmercFyVvl56Z.jpg",
+        "production_companies": [
+            {
+                "id": 20580,
+                "logo_path": "/oRR9EXVoKP9szDkVKlze5HVJS7g.png",
+                "name": "Amazon Studios",
+                "origin_country": "US"
+            },
+            {
+                "id": 27711,
+                "logo_path": "/3e294jszfE6cE8TOogmj0zNd6pL.png",
+                "name": "Berlanti Productions",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-07-27",
+        "revenue": 0,
+        "runtime": 121,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Love who you want. It's good foreign policy.",
+        "title": "Red, White & Royal Blue",
+        "video": false,
+        "vote_average": 8.138,
+        "vote_count": 897
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oQt74Jpvhdv1kJPSoHBq13DREpt.jpg",
+        "belongs_to_collection": null,
+        "budget": 4258000,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "",
+        "id": 31667,
+        "imdb_id": "tt0039694",
+        "original_language": "en",
+        "original_title": "The Paradine Case",
+        "overview": "Attorney Anthony Keane agrees to represent Londonite Mrs. Paradine, who has been fingered in her husband's murder. From the start, the married lawyer is drawn to the enigmatic beauty, and he begins to cast about for a way to exonerate his client. Keane puts the Paradine household servant on the stand, suggesting he is the killer. But Keane soon loses his way in the courtroom, and his half-baked plan sets off a stunning chain of events.",
+        "popularity": 12.037,
+        "poster_path": "/faUkygLOpVA8roEYNYyQTX3llnJ.jpg",
+        "production_companies": [
+            {
+                "id": 614,
+                "logo_path": null,
+                "name": "Vanguard Films",
+                "origin_country": ""
+            },
+            {
+                "id": 1553,
+                "logo_path": null,
+                "name": "Selznick International Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1947-12-31",
+        "revenue": 2100000,
+        "runtime": 114,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "The dramatic case of a beautiful woman whose trial for murder held the nation spellbound.",
+        "title": "The Paradine Case",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 216
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2iHugNhxp6gdU8OxUxMp12qLwJo.jpg",
+        "belongs_to_collection": {
+            "id": 52097,
+            "name": "Camping Collection",
+            "poster_path": "/7tHE3SUet9rxWQI05slC1UYeRJC.jpg",
+            "backdrop_path": "/7rxSjNa4mxvzpj86tw8dbi6bogT.jpg"
+        },
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "",
+        "id": 375804,
+        "imdb_id": "tt4979860",
+        "original_language": "fr",
+        "original_title": "Camping 3",
+        "overview": "Like every summer, our friends, the Pics, Jacky and Laurette, Gatineau, recently divorced from Sopie, and Patrick Chirac, ever true to form, get together at the Blue Waves camping grounds.\r This year, Patrick has decided to try car sharing. Believing that he'll travel through France alone with Vanessa, he finds himself accompanied by three young Dijon inhabitants: smooth-talking Robert, good-looking Benji and loudmouth Jos\u00e9. Of course, after car sharing Patrick is forced to try out bed sharing...",
+        "popularity": 6.309,
+        "poster_path": "/sdNwYpjH4yCwhbKFOYrpClrvxHg.jpg",
+        "production_companies": [
+            {
+                "id": 71512,
+                "logo_path": null,
+                "name": "Waiting for Cin\u00e9ma",
+                "origin_country": ""
+            },
+            {
+                "id": 356,
+                "logo_path": "/tSJvuFaLIp7l0ONLUiAHA61GbXu.png",
+                "name": "TF1 Films Production",
+                "origin_country": "FR"
+            },
+            {
+                "id": 7981,
+                "logo_path": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png",
+                "name": "Path\u00e9",
+                "origin_country": "FR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "release_date": "2016-06-29",
+        "revenue": 0,
+        "runtime": 105,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Camping 3",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 566
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cIVB7BepeWUXqFF787uL3A7lOJb.jpg",
+        "belongs_to_collection": null,
+        "budget": 12000000,
+        "genres": [
+            {
+                "id": 10402,
+                "name": "Music"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "http://alanparker.com/film/pink-floyd-the-wall/",
+        "id": 12104,
+        "imdb_id": "tt0084503",
+        "original_language": "en",
+        "original_title": "Pink Floyd: The Wall",
+        "overview": "A troubled rock star descends into madness in the midst of his physical and social isolation from everyone.",
+        "popularity": 21.18,
+        "poster_path": "/aElHyIdF5jmctFGhlhhaPFsbBJC.jpg",
+        "production_companies": [
+            {
+                "id": 500,
+                "logo_path": "/yDDFvMZAEbLGAm90LxzmayEfvE5.png",
+                "name": "Goldcrest",
+                "origin_country": "GB"
+            },
+            {
+                "id": 8834,
+                "logo_path": null,
+                "name": "Tin Blue",
+                "origin_country": ""
+            },
+            {
+                "id": 21,
+                "logo_path": "/5Va1Ie5c4sjfEYqixQ3L8qg7fKu.png",
+                "name": "Metro-Goldwyn-Mayer",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1982-07-14",
+        "revenue": 22244207,
+        "runtime": 95,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "The Memories... The Madness... The Music... The Movie.",
+        "title": "Pink Floyd: The Wall",
+        "video": false,
+        "vote_average": 7.984,
+        "vote_count": 1370
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vjnS4iu0SdwXm2LLqZGNCfpId9t.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            }
+        ],
+        "homepage": "http://bungo-stray-dogs.jp/movie/",
+        "id": 483455,
+        "imdb_id": "tt8391976",
+        "original_language": "ja",
+        "original_title": "\u6587\u8c6a\u30b9\u30c8\u30ec\u30a4\u30c9\u30c3\u30b0\u30b9 DEAD APPLE",
+        "overview": "A large scale catastrophe is occurring across the planet. Ability users are discovered after the appearance of a mysterious fog, apparently having committed suicide, so the Armed Detective Agency sets out to investigate these mysterious deaths. The case seems to involve an unknown ability user referred to as \"Collector,\" a man who could be the mastermind behind the incident.\r Trust and courage are put to the test in order to save the city of Yokohama and ability users across the world from the grip of Collector where the Armed Detective Agency forms an unlikely partnership with the dangerous Port Mafia.",
+        "popularity": 20.004,
+        "poster_path": "/np6pxhOXJ0HQHgWmalfTCsnjho.jpg",
+        "production_companies": [
+            {
+                "id": 2849,
+                "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+                "name": "BONES",
+                "origin_country": "JP"
+            },
+            {
+                "id": 6683,
+                "logo_path": "/reCkuk3GEomdx5gQpsm15Zl1sgX.png",
+                "name": "Lantis",
+                "origin_country": "JP"
+            },
+            {
+                "id": 2073,
+                "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+                "name": "KADOKAWA",
+                "origin_country": "JP"
+            },
+            {
+                "id": 136217,
+                "logo_path": "/dBYuplhBgeOsGPQOI0LukWNbFWE.png",
+                "name": "Bandai Namco Arts",
+                "origin_country": "JP"
+            },
+            {
+                "id": 6681,
+                "logo_path": "/s4RElEnQyM2VrHZCQ3jYemPdxML.png",
+                "name": "THE KLOCKWORX",
+                "origin_country": "JP"
+            },
+            {
+                "id": 157001,
+                "logo_path": "/vDBycpPRLKBf7T0RQbQtU49BQO6.png",
+                "name": "KADOKAWA Media House",
+                "origin_country": "JP"
+            },
+            {
+                "id": 60194,
+                "logo_path": null,
+                "name": "Bandai Namco Live Creative",
+                "origin_country": "JP"
+            },
+            {
+                "id": 3466,
+                "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
+                "name": "movic",
+                "origin_country": "JP"
+            },
+            {
+                "id": 87086,
+                "logo_path": "/eAjcgCH2cxuo0oEMqRwU3g0izTv.png",
+                "name": "Sony Music Communications",
+                "origin_country": "JP"
+            },
+            {
+                "id": 9067,
+                "logo_path": null,
+                "name": "Glovision",
+                "origin_country": "JP"
+            },
+            {
+                "id": 157807,
+                "logo_path": "/tyrJOOVAUIxQEJzjP1PhP2H5zFi.png",
+                "name": "WOWOW",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "2018-03-03",
+        "revenue": 0,
+        "runtime": 90,
+        "spoken_languages": [
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "\u65e5\u672c\u8a9e"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Bungo Stray Dogs: Dead Apple",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 133
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/shl0ELODK3VgHr7pu8VTz2a8olW.jpg",
+        "belongs_to_collection": {
+            "id": 10457,
+            "name": "Once Upon a Time in China Collection",
+            "poster_path": "/7uB1oljT3id97xFWJlhZhJGeapg.jpg",
+            "backdrop_path": "/gQNRJ3ChYVkqGtAOgmWJKr3uw1x.jpg"
+        },
+        "budget": 0,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 10617,
+        "imdb_id": "tt0103285",
+        "original_language": "cn",
+        "original_title": "\u9ec3\u98db\u9d3b",
+        "overview": "Set in late 19th century Canton, this martial arts film depicts the stance taken by the legendary martial arts hero Wong Fei-Hung against foreign forces' plundering of China.",
+        "popularity": 23.867,
+        "poster_path": "/dkBQC0jmkmTOJJMgwsBdgkzZ6Ry.jpg",
+        "production_companies": [
+            {
+                "id": 2734,
+                "logo_path": null,
+                "name": "Paragon Films Ltd.",
+                "origin_country": "HK"
+            },
+            {
+                "id": 2521,
+                "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
+                "name": "Orange Sky Golden Harvest",
+                "origin_country": "HK"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "release_date": "1991-08-15",
+        "revenue": 3826459,
+        "runtime": 134,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Cantonese",
+                "iso_639_1": "cn",
+                "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Never was a Hero needed more...",
+        "title": "Once Upon a Time in China",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 378
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5ns4fJFlQUuE2PXcCNVJnpguWwb.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "http://piecesoftalent.com",
+        "id": 216203,
+        "imdb_id": "tt2098781",
+        "original_language": "en",
+        "original_title": "Pieces of Talent",
+        "overview": "David, a local filmmaker, becomes obsessed with Charlotte, an aspiring actress working as a waitress, and begins filming a gory masterpiece.",
+        "popularity": 1.519,
+        "poster_path": "/gpGN4A4GmpYaqk4pmgx0TC53uMa.jpg",
+        "production_companies": [
+            {
+                "id": 118688,
+                "logo_path": null,
+                "name": "Shutter Blade Media",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2014-01-01",
+        "revenue": 0,
+        "runtime": 95,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "I have something beautiful I want you to see",
+        "title": "Pieces of Talent",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 199252,
+        "imdb_id": "tt0048011",
+        "original_language": "fr",
+        "original_title": "Le Dossier noir",
+        "overview": "In the 1950s, in a small provincial town, a young inexperienced judge clashes with an influential notable during an investigation into a suspicious death. His perseverance to get to the truth will cause a huge scandal.",
+        "popularity": 1.593,
+        "poster_path": "/tKJSlJvgbv83185l64lRtmeK4As.jpg",
+        "production_companies": [
+            {
+                "id": 1825,
+                "logo_path": null,
+                "name": "Sp\u00e9va Films",
+                "origin_country": "FR"
+            },
+            {
+                "id": 1131,
+                "logo_path": null,
+                "name": "Rizzoli Film",
+                "origin_country": "IT"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "release_date": "1955-05-10",
+        "revenue": 0,
+        "runtime": 115,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Black Dossier",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w006wD7te3RFvQVR3yKModjeste.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "https://www.infinitychamber.com/",
+        "id": 428948,
+        "imdb_id": "tt3839880",
+        "original_language": "en",
+        "original_title": "Infinity Chamber",
+        "overview": "A man trapped in an automated prison must outsmart a computer in order to escape and try and find his way back to the outside world that may already be wiped out.",
+        "popularity": 8.979,
+        "poster_path": "/3WDppnUdf6nKDnrhjxrGlekvMuA.jpg",
+        "production_companies": [
+            {
+                "id": 95763,
+                "logo_path": null,
+                "name": "Milloy Films",
+                "origin_country": ""
+            },
+            {
+                "id": 95764,
+                "logo_path": null,
+                "name": "Latest Trick Productions",
+                "origin_country": ""
+            },
+            {
+                "id": 70559,
+                "logo_path": null,
+                "name": "XLrator Media",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2016-12-03",
+        "revenue": 0,
+        "runtime": 103,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Justice is automated. Your fate is secure.",
+        "title": "Infinity Chamber",
+        "video": false,
+        "vote_average": 6.22,
+        "vote_count": 202
+    }
+]

@@ -1,0 +1,2042 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/byJAIfGhAwRlzYYDZ0Jd2pV2a00.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 55197,
+        "imdb_id": "tt0044982",
+        "original_language": "ja",
+        "original_title": "\u304a\u8336\u6f2c\u3051\u306e\u5473",
+        "overview": "The arranged marriage between a capricious woman from Tokyo high society and a quiet and rustic man is tested by a marital crisis.",
+        "popularity": 9.566,
+        "poster_path": "/vR98RXd200GhQGRtbsZJpBBXXkb.jpg",
+        "production_companies": [
+            {
+                "id": 192,
+                "logo_path": "/93eAKlnQecDdMtucfOprzcjMw9V.png",
+                "name": "Shochiku",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "1952-10-01",
+        "revenue": 0,
+        "runtime": 116,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            },
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "\u65e5\u672c\u8a9e"
+            },
+            {
+                "english_name": "Latin",
+                "iso_639_1": "la",
+                "name": "Latin"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Flavor of Green Tea Over Rice",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 60
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lrNKm3HNvGdZoAfiBKu7b04FLHN.jpg",
+        "belongs_to_collection": null,
+        "budget": 84000000,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "http://thegreatestshowman.com/",
+        "id": 316029,
+        "imdb_id": "tt1485796",
+        "original_language": "en",
+        "original_title": "The Greatest Showman",
+        "overview": "The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.",
+        "popularity": 29.882,
+        "poster_path": "/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
+        "production_companies": [
+            {
+                "id": 7076,
+                "logo_path": "/8BFxn9NUWSgp0ndih569Gm62xiC.png",
+                "name": "Chernin Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 25,
+                "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+                "name": "20th Century Fox",
+                "origin_country": "US"
+            },
+            {
+                "id": 22213,
+                "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+                "name": "TSG Entertainment",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2017-12-20",
+        "revenue": 432844677,
+        "runtime": 105,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "The impossible comes true.",
+        "title": "The Greatest Showman",
+        "video": false,
+        "vote_average": 7.905,
+        "vote_count": 8908
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l2ji4YiNSPBV69WjGBgU0gCvRqy.jpg",
+        "belongs_to_collection": null,
+        "budget": 120000000,
+        "genres": [
+            {
+                "id": 14,
+                "name": "Fantasy"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 10751,
+                "name": "Family"
+            }
+        ],
+        "homepage": "https://movies.disney.com/the-nutcracker-and-the-four-realms",
+        "id": 426543,
+        "imdb_id": "tt5523010",
+        "original_language": "en",
+        "original_title": "The Nutcracker and the Four Realms",
+        "overview": "When Clara\u2019s mother leaves her a mysterious gift, she embarks on a journey to four secret realms\u2014where she discovers her greatest strength could change the world.",
+        "popularity": 32.7,
+        "poster_path": "/9vPDY8e7YxLwgVum7YZIUJbr4qc.jpg",
+        "production_companies": [
+            {
+                "id": 2,
+                "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+                "name": "Walt Disney Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 1557,
+                "logo_path": "/ccz9bqCu3jSFKbPFnfWmjAKZLBL.png",
+                "name": "The Mark Gordon Company",
+                "origin_country": "US"
+            },
+            {
+                "id": 8147,
+                "logo_path": "/q6HOAdSNgCbeOqwoMVRc6REgbXF.png",
+                "name": "Entertainment One",
+                "origin_country": "CA"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2018-10-26",
+        "revenue": 59522646,
+        "runtime": 99,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Let the mystery unfold.",
+        "title": "The Nutcracker and the Four Realms",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 2004
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5OHfUjA9uSxLuxODynixGFpsoOL.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "",
+        "id": 13168,
+        "imdb_id": "tt0780608",
+        "original_language": "en",
+        "original_title": "Smiley Face",
+        "overview": "Jane, a struggling but perpetually stoned actress, has a busy day ahead. She has several important tasks on her list, including buying more marijuana. Even though she already has a good start on the day's planned drug use, she eats her roommate's pot-laced cupcakes and embarks on a series of misadventures all over Los Angeles.",
+        "popularity": 14.263,
+        "poster_path": "/g4tiLL7uVE9N8yOhu3iLQN8LUBy.jpg",
+        "production_companies": [
+            {
+                "id": 1474,
+                "logo_path": null,
+                "name": "Desperate Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 10039,
+                "logo_path": "/b8w4LldQolMKiLZw4FQJBcXSDGI.png",
+                "name": "Anonymous Content",
+                "origin_country": "US"
+            },
+            {
+                "id": 37829,
+                "logo_path": null,
+                "name": "ApolloProMovie & Co. 3. Filmproduktion",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2007-11-16",
+        "revenue": 179381,
+        "runtime": 84,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "High. How are you?",
+        "title": "Smiley Face",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 247
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vscsDExaKK0oKqrYBze9Tm2oitf.jpg",
+        "belongs_to_collection": {
+            "id": 261382,
+            "name": "Clint Eastwood's Iwo Jima Collection",
+            "poster_path": "/rnRE6JGz9yjYUAbWIHYkGu9B8pj.jpg",
+            "backdrop_path": "/dIYpFavJ8vNCv9pefEabsUL1pDP.jpg"
+        },
+        "budget": 90000000,
+        "genres": [
+            {
+                "id": 10752,
+                "name": "War"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 36,
+                "name": "History"
+            }
+        ],
+        "homepage": "",
+        "id": 3683,
+        "imdb_id": "tt0418689",
+        "original_language": "en",
+        "original_title": "Flags of Our Fathers",
+        "overview": "There were five Marines and one Navy Corpsman photographed raising the U.S. flag on Mt. Suribachi by Joe Rosenthal on February 23, 1945. This is the story of three of the six surviving servicemen - John 'Doc' Bradley, Pvt. Rene Gagnon and Pvt. Ira Hayes - who fought in the battle to take Iwo Jima from the Japanese.",
+        "popularity": 22.025,
+        "poster_path": "/2nkPrhf4YIyMFelfe4zdOnGRYz5.jpg",
+        "production_companies": [
+            {
+                "id": 7,
+                "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+                "name": "DreamWorks Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 174,
+                "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+                "name": "Warner Bros. Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 56,
+                "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+                "name": "Amblin Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 171,
+                "logo_path": null,
+                "name": "Malpaso Productions",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2006-10-18",
+        "revenue": 65900249,
+        "runtime": 135,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "They fight for their country but they die for their friends.",
+        "title": "Flags of Our Fathers",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 1682
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uzobkEgGCfVzmXyXKH6Nbrby4Rm.jpg",
+        "belongs_to_collection": null,
+        "budget": 30000000,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "https://www.warnerbros.com/movies/entourage",
+        "id": 188222,
+        "imdb_id": "tt1674771",
+        "original_language": "en",
+        "original_title": "Entourage",
+        "overview": "Movie star Vincent Chase, together with his boys, Eric, Turtle and Johnny, are back\u2026and back in business with super agent-turned-studio head Ari Gold. Some of their ambitions have changed, but the bond between them remains strong as they navigate the capricious and often cutthroat world of Hollywood.",
+        "popularity": 28.313,
+        "poster_path": "/6Vl5t0d6g37Se20VjQ8EFdbb7dG.jpg",
+        "production_companies": [
+            {
+                "id": 8537,
+                "logo_path": null,
+                "name": "Closest to the Hole Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 119509,
+                "logo_path": null,
+                "name": "Leverage Entertainment",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2015-06-03",
+        "revenue": 49263404,
+        "runtime": 104,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Dream large. Live larger.",
+        "title": "Entourage",
+        "video": false,
+        "vote_average": 6.207,
+        "vote_count": 937
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ezxy4ncmiQEJdtlcHMak1KUhHtA.jpg",
+        "belongs_to_collection": null,
+        "budget": 1000000,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "http://www.theofficialjohncarpenter.com/the-fog/",
+        "id": 790,
+        "imdb_id": "tt0080749",
+        "original_language": "en",
+        "original_title": "The Fog",
+        "overview": "Strange things begin to occurs as a tiny California coastal town prepares to commemorate its centenary. Inanimate objects spring eerily to life; Rev. Malone stumbles upon a dark secret about the town's founding; radio announcer Stevie witnesses a mystical fire; and hitchhiker Elizabeth discovers the mutilated corpse of a fisherman. Then a mysterious iridescent fog descends upon the village, and more people start to die.",
+        "popularity": 31.762,
+        "poster_path": "/gZmdq8HB8SBdOHk5XarjCZIiGGk.jpg",
+        "production_companies": [
+            {
+                "id": 494,
+                "logo_path": "/ioc65azmsAeL1XQN4dFnrpdJoMO.png",
+                "name": "AVCO Embassy Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 495,
+                "logo_path": null,
+                "name": "EDI",
+                "origin_country": "US"
+            },
+            {
+                "id": 498,
+                "logo_path": null,
+                "name": "Debra Hill Productions",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1980-02-08",
+        "revenue": 21448830,
+        "runtime": 89,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Lock your doors. Bolt your windows. There's something in THE FOG!",
+        "title": "The Fog",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 1386
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5BkSkNtfrnTuKOtTaZhl8avn4wU.jpg",
+        "belongs_to_collection": null,
+        "budget": 50000000,
+        "genres": [
+            {
+                "id": 14,
+                "name": "Fantasy"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            }
+        ],
+        "homepage": "https://hellboy.movie",
+        "id": 456740,
+        "imdb_id": "tt2274648",
+        "original_language": "en",
+        "original_title": "Hellboy",
+        "overview": "Hellboy comes to England, where he must defeat Nimue, Merlin's consort and the Blood Queen. But their battle will bring about the end of the world, a fate he desperately tries to turn away.",
+        "popularity": 48.218,
+        "poster_path": "/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg",
+        "production_companies": [
+            {
+                "id": 48738,
+                "logo_path": null,
+                "name": "Campbell Grobman Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 552,
+                "logo_path": "/9dGdLfm3GteWeUDtD9c9tvlidUG.png",
+                "name": "Dark Horse Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 1020,
+                "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+                "name": "Millennium Media",
+                "origin_country": "US"
+            },
+            {
+                "id": 491,
+                "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+                "name": "Summit Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 120256,
+                "logo_path": null,
+                "name": "Boyana Film Studios",
+                "origin_country": "BG"
+            },
+            {
+                "id": 840,
+                "logo_path": null,
+                "name": "Lawrence Gordon Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 342,
+                "logo_path": null,
+                "name": "Davis Films",
+                "origin_country": "FR"
+            },
+            {
+                "id": 1632,
+                "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+                "name": "Lionsgate",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BG",
+                "name": "Bulgaria"
+            },
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "PT",
+                "name": "Portugal"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2019-04-10",
+        "revenue": 55065289,
+        "runtime": 121,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "German",
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "english_name": "Russian",
+                "iso_639_1": "ru",
+                "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            },
+            {
+                "english_name": "Turkish",
+                "iso_639_1": "tr",
+                "name": "T\u00fcrk\u00e7e"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Demons Have Demons Too",
+        "title": "Hellboy",
+        "video": false,
+        "vote_average": 5.557,
+        "vote_count": 3151
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hSE7U0RhFRIKRRbcXPMggZX5Hny.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            }
+        ],
+        "homepage": "http://www.protagonistpictures.com/films/american-hero",
+        "id": 367551,
+        "imdb_id": "tt4733536",
+        "original_language": "en",
+        "original_title": "American Hero",
+        "overview": "Melvin, a reluctant hero who is far from super, has been suppressing his telekinetic powers for years with booze, drugs, and women. In the process, he has failed at practically everything, most of all as a parent to his son. After a brush with death, Melvin decides to use his powers for good and clean up the streets of New Orleans with the help of his best friend/definitely-not-a-sidekick, Lucille. For a man who can do the impossible, it might be a fight even he can\u2019t win.",
+        "popularity": 9.342,
+        "poster_path": "/uYHb5CG90zHp5CDj3dJDP98c77q.jpg",
+        "production_companies": [
+            {
+                "id": 20277,
+                "logo_path": "/aomeUwZLIBjGXHfuZq7HTVk7UNb.png",
+                "name": "Protagonist Pictures",
+                "origin_country": "GB"
+            },
+            {
+                "id": 6353,
+                "logo_path": "/7Fs0fMLWrPUaM3H0PK4hbnuEE1g.png",
+                "name": "Screen Media Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 10393,
+                "logo_path": "/7MazD0kppT5OzdumzDi5IFYNthO.png",
+                "name": "Vertigo Films",
+                "origin_country": "GB"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2015-12-11",
+        "revenue": 0,
+        "runtime": 86,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "From zero to superhero",
+        "title": "American Hero",
+        "video": false,
+        "vote_average": 5.587,
+        "vote_count": 212
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6Yw8zBryliGvZf2BIbgqw8bwawX.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "http://www.altitudefilment.com/film/production/2",
+        "id": 318922,
+        "imdb_id": "tt2474958",
+        "original_language": "en",
+        "original_title": "Kill Your Friends",
+        "overview": "In the late 1990s, a drug-addled nihilist resorts to murder to climb the ladder of the London music industry.",
+        "popularity": 10.661,
+        "poster_path": "/o1UCbfINkQsI2kGEIT3Y4GwHTnq.jpg",
+        "production_companies": [
+            {
+                "id": 19638,
+                "logo_path": "/6R3XtbihMWuDRFnlm4MkpxhmEKf.png",
+                "name": "Altitude Film Entertainment",
+                "origin_country": "GB"
+            },
+            {
+                "id": 60323,
+                "logo_path": "/6IzmhiRMaYUxORjiJ5vZm9gSagy.png",
+                "name": "Unigram",
+                "origin_country": "GB"
+            },
+            {
+                "id": 51860,
+                "logo_path": null,
+                "name": "AI Film",
+                "origin_country": "GB"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "release_date": "2015-11-06",
+        "revenue": 0,
+        "runtime": 104,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Lies. Betrayal. Murder. Just another day in the music industry.",
+        "title": "Kill Your Friends",
+        "video": false,
+        "vote_average": 6.094,
+        "vote_count": 293
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tEm3rfyE8V16FvcYFPjl1OYvNPx.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 1040892,
+        "imdb_id": "tt15422224",
+        "original_language": "en",
+        "original_title": "Slotherhouse",
+        "overview": "Wanting to have a killer year, sorority sister Emily Young realizes she might just be the best option for her sorority. While beginning her campaign, she finds an adorable sloth that steals her heart and soon realizes she just might steal the hearts, and votes, of her sorority sisters. But when bodies slowly begin to pile up in the Sigma Lambda Theta house, Emily and her sorority sisters realize the deaths are being caused by their new house mascot, the cuddly sloth Alpha. Will Emily and her sisters escape the house with their lives? Or is this death-sloth with three razor sharp claws too quick for them?",
+        "popularity": 45.49,
+        "poster_path": "/oMsOOdI43XC06vr4uCqpJ2hyfd7.jpg",
+        "production_companies": [
+            {
+                "id": 185040,
+                "logo_path": null,
+                "name": "Renegade Studios Chicago",
+                "origin_country": "US"
+            },
+            {
+                "id": 46089,
+                "logo_path": "/7rkQpZSBqbjpS4EvnOpNtyCsSlL.png",
+                "name": "Talking Wolf Productions",
+                "origin_country": "RS"
+            },
+            {
+                "id": 90745,
+                "logo_path": null,
+                "name": "Buffalo Speedway Film Company",
+                "origin_country": "US"
+            },
+            {
+                "id": 89748,
+                "logo_path": "/tTKK7zn01c4Z5hh6mrhlNzcc93M.png",
+                "name": "Cinema Relics Productions",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-08-30",
+        "revenue": 0,
+        "runtime": 93,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Don't rush, die slow.",
+        "title": "Slotherhouse",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 37
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kEHu88JMh9Zh4RYcgK7Lo2YZwdW.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "",
+        "id": 384664,
+        "imdb_id": "tt4911940",
+        "original_language": "de",
+        "original_title": "Tschick",
+        "overview": "While his mother is in rehab and his father is on a 'business trip' with his assistant, 14-year-old outsider Maik is spending the summer holidays bored and alone at his parents' villa, when rebellious teenager Tschick appears. Tschick, a Russian immigrant and an outcast, steals a car and decides to set off on a journey away from Berlin with Maik tagging along for the ride. So begins a wild adventure where the two experience the trip of a lifetime and share a summer that they will never forget.",
+        "popularity": 13.625,
+        "poster_path": "/fMXPFsNFWgxi6NCmttI6GJq8pa8.jpg",
+        "production_companies": [
+            {
+                "id": 19245,
+                "logo_path": "/7RhKMuyqFDMq8LpiFCxTgZ8H4pT.png",
+                "name": "Lago Film",
+                "origin_country": "DE"
+            },
+            {
+                "id": 694,
+                "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+                "name": "StudioCanal",
+                "origin_country": "FR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "release_date": "2016-09-15",
+        "revenue": 0,
+        "runtime": 93,
+        "spoken_languages": [
+            {
+                "english_name": "German",
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "status": "Released",
+        "tagline": "The best summer ever",
+        "title": "Goodbye Berlin",
+        "video": false,
+        "vote_average": 6.705,
+        "vote_count": 264
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hbCd8CmZUFFn8dIkNDYWE3EqCUF.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            }
+        ],
+        "homepage": "",
+        "id": 178736,
+        "imdb_id": "tt0101930",
+        "original_language": "ja",
+        "original_title": "\u3075\u305f\u308a",
+        "overview": "The Kitao family is coping with the loss of the eldest daughter, Chizuko, who was killed in a freak accident the year prior. When the other daughter Mika is suddenly in a dangerous situation, Chizuko returns as a ghost to save her; reunited with her sister, Mika begins spending time with Chizuko again.",
+        "popularity": 4.643,
+        "poster_path": "/rNRFrlIKB2e7aQ2X79ZPFZ8Pmax.jpg",
+        "production_companies": [
+            {
+                "id": 13619,
+                "logo_path": null,
+                "name": "Galuk Premium",
+                "origin_country": ""
+            },
+            {
+                "id": 11376,
+                "logo_path": "/lrglrxyGOMRl9KCsmcjmzjjpT2H.png",
+                "name": "NHK Enterprises",
+                "origin_country": "JP"
+            },
+            {
+                "id": 5155,
+                "logo_path": null,
+                "name": "PSC",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "1991-05-10",
+        "revenue": 0,
+        "runtime": 150,
+        "spoken_languages": [
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "\u65e5\u672c\u8a9e"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Chizuko's Younger Sister",
+        "video": false,
+        "vote_average": 7.25,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sI2UYmh2K2aCfrZMkXE0WjiwxLP.jpg",
+        "belongs_to_collection": null,
+        "budget": 1500000,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 66121,
+        "imdb_id": "tt0382443",
+        "original_language": "en",
+        "original_title": "The Thing Below",
+        "overview": "A top secret drilling platform in the Gulf of Mexico raises a dormant alien creature from the depths. Once loose, the creature goes on a murderous rampage.",
+        "popularity": 5.261,
+        "poster_path": "/bA1NlbAnI6a3FpUY2ZAmdkFDnn2.jpg",
+        "production_companies": [
+            {
+                "id": 62524,
+                "logo_path": null,
+                "name": "Hellfire Productions",
+                "origin_country": ""
+            },
+            {
+                "id": 2865,
+                "logo_path": "/5O0gp5QS3n9ZPRvWFxaWa6QPpGX.png",
+                "name": "Insight Film Studios",
+                "origin_country": "CA"
+            },
+            {
+                "id": 11551,
+                "logo_path": null,
+                "name": "Movie Central Network",
+                "origin_country": "CA"
+            },
+            {
+                "id": 73525,
+                "logo_path": null,
+                "name": "Space: The Imagination Station",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "release_date": "2004-01-07",
+        "revenue": 0,
+        "runtime": 94,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Fear is rising",
+        "title": "The Thing Below",
+        "video": false,
+        "vote_average": 3.6,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sKJOOzIR5oMiCeXC7gBxXgIDz9p.jpg",
+        "belongs_to_collection": null,
+        "budget": 31500000,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            }
+        ],
+        "homepage": "",
+        "id": 302156,
+        "imdb_id": "tt3014866",
+        "original_language": "en",
+        "original_title": "Criminal",
+        "overview": "CIA Agent Bill Pope is on a mission to track down a shadowy hacker named 'The Dutchman'. When he gets mysteriously killed, an experimental procedure transfers his memories into a dangerous ex-convict. When he wakes up Pope's memories, his mission is to eliminate The Dutchman before the hacker launches ICBMs and starts World War III.",
+        "popularity": 27.885,
+        "poster_path": "/lm0NlIsgGDqdx7CGFCDDJo1ptgh.jpg",
+        "production_companies": [
+            {
+                "id": 6363,
+                "logo_path": null,
+                "name": "BenderSpink",
+                "origin_country": ""
+            },
+            {
+                "id": 48738,
+                "logo_path": null,
+                "name": "Campbell Grobman Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 91929,
+                "logo_path": null,
+                "name": "Criminal Productions",
+                "origin_country": ""
+            },
+            {
+                "id": 40822,
+                "logo_path": null,
+                "name": "Fipex Holding",
+                "origin_country": ""
+            },
+            {
+                "id": 1632,
+                "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+                "name": "Lionsgate",
+                "origin_country": "US"
+            },
+            {
+                "id": 1020,
+                "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+                "name": "Millennium Media",
+                "origin_country": "US"
+            },
+            {
+                "id": 342,
+                "logo_path": null,
+                "name": "Davis Films",
+                "origin_country": "FR"
+            },
+            {
+                "id": 491,
+                "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+                "name": "Summit Entertainment",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BG",
+                "name": "Bulgaria"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2016-04-07",
+        "revenue": 14708696,
+        "runtime": 113,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "The mission is in the memories.",
+        "title": "Criminal",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 1611
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sAiTihJ8bjEqg8nYUIlTQUnVXuj.jpg",
+        "belongs_to_collection": null,
+        "budget": 100000000,
+        "genres": [
+            {
+                "id": 37,
+                "name": "Western"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            }
+        ],
+        "homepage": "",
+        "id": 2023,
+        "imdb_id": "tt0317648",
+        "original_language": "en",
+        "original_title": "Hidalgo",
+        "overview": "Set in 1890, this is the story of a Pony Express courier who travels to Arabia to compete with his horse, Hidalgo, in a dangerous race for a massive contest prize, in an adventure that sends the pair around the world...",
+        "popularity": 23.679,
+        "poster_path": "/iGzENlBPYJEFWZnye4t3nqWSSp1.jpg",
+        "production_companies": [
+            {
+                "id": 9195,
+                "logo_path": "/ou5BUbtulr6tIt699q6xJiEQTR9.png",
+                "name": "Touchstone Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 877,
+                "logo_path": null,
+                "name": "Casey Silver Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 19477,
+                "logo_path": null,
+                "name": "Dune Films",
+                "origin_country": "MA"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "MA",
+                "name": "Morocco"
+            }
+        ],
+        "release_date": "2004-02-04",
+        "revenue": 108103450,
+        "runtime": 136,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Arabic",
+                "iso_639_1": "ar",
+                "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Unbridled. Unbroken. Unbeaten.",
+        "title": "Hidalgo",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 1087
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yN2xzfoy6JoyjVgmjyqt3sLGV9.jpg",
+        "belongs_to_collection": {
+            "id": 1070399,
+            "name": "The Bible Collection",
+            "poster_path": "/lug8SC0acLYmSMJazoO5yjYot2a.jpg",
+            "backdrop_path": null
+        },
+        "budget": 15000000,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            }
+        ],
+        "homepage": "",
+        "id": 2734,
+        "imdb_id": "tt0118933",
+        "original_language": "en",
+        "original_title": "David",
+        "overview": "A distinguished military leader whose reign was touched by great scandal, shocking betrayals and rousing victories. A simple shepherd boy chosen to be king, under the watchful eyes of prophet Samuel.",
+        "popularity": 10.839,
+        "poster_path": "/PZZEIftzyQpqn1BoAXfX3B6l9B.jpg",
+        "production_companies": [
+            {
+                "id": 678,
+                "logo_path": "/AbIc38dGx4b8dhKS7oeRL6aXFDv.png",
+                "name": "Turner Network Television",
+                "origin_country": "US"
+            },
+            {
+                "id": 974,
+                "logo_path": null,
+                "name": "Five Mile River Films",
+                "origin_country": ""
+            },
+            {
+                "id": 1080,
+                "logo_path": "/6bZ0BiLDzCZSqVCjiSqweWwp9Ew.png",
+                "name": "Beta Film",
+                "origin_country": "DE"
+            },
+            {
+                "id": 1082,
+                "logo_path": "/lEvojpyYkqD9W8mIEH5LB1cft2q.png",
+                "name": "Lux Vide",
+                "origin_country": "IT"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1997-03-23",
+        "revenue": 0,
+        "runtime": 190,
+        "spoken_languages": [
+            {
+                "english_name": "German",
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "David",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 35
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dcVGUGSHv6DzGlb7BZ9vYKte7lA.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 63212,
+        "imdb_id": "tt0054758",
+        "original_language": "fr",
+        "original_title": "Le Combat dans l\u2019\u00eele",
+        "overview": "The charismatic, surly son of a wealthy industrialist, Cl\u00e9ment, leads a double life as a member of a right-wing extremist organization. When he\u2019s ratted out after a failed assassination attempt on a prominent politician, Cl\u00e9ment and his long-suffering wife Anne flee Paris to the idyllic country home of his childhood friend, pacifist print-maker Paul. As affection blossoms between Paul and Anne, the emotional, as well as political tensions, soar and eventually explode.",
+        "popularity": 5.151,
+        "poster_path": "/wuEulNLd8uHwRqaZmvwD9CJQ8TO.jpg",
+        "production_companies": [
+            {
+                "id": 753,
+                "logo_path": null,
+                "name": "Nouvelles \u00c9ditions de Films (NEF)",
+                "origin_country": "FR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "release_date": "1962-08-16",
+        "revenue": 0,
+        "runtime": 104,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Fire and Ice",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5N8LOeRzt7LcZIhPbNVaCsVOPdT.jpg",
+        "belongs_to_collection": null,
+        "budget": 68000000,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            }
+        ],
+        "homepage": "https://www.nope.movie",
+        "id": 762504,
+        "imdb_id": "tt10954984",
+        "original_language": "en",
+        "original_title": "Nope",
+        "overview": "Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.",
+        "popularity": 47.252,
+        "poster_path": "/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+        "production_companies": [
+            {
+                "id": 88934,
+                "logo_path": "/5Be96V9WXa7jJInSDPqDOqMBA0o.png",
+                "name": "Monkeypaw Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 33,
+                "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                "name": "Universal Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 1778,
+                "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+                "name": "dentsu",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "2022-07-20",
+        "revenue": 170823080,
+        "runtime": 130,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "What\u2019s a bad miracle?",
+        "title": "Nope",
+        "video": false,
+        "vote_average": 6.891,
+        "vote_count": 3366
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/o8dPH0ZSIyyViP6rjRX1djwCUwI.jpg",
+        "belongs_to_collection": null,
+        "budget": 4500000,
+        "genres": [
+            {
+                "id": 9648,
+                "name": "Mystery"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "http://www.getoutfilm.com/",
+        "id": 419430,
+        "imdb_id": "tt5052448",
+        "original_language": "en",
+        "original_title": "Get Out",
+        "overview": "Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
+        "popularity": 50.669,
+        "poster_path": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+        "production_companies": [
+            {
+                "id": 88934,
+                "logo_path": "/5Be96V9WXa7jJInSDPqDOqMBA0o.png",
+                "name": "Monkeypaw Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 3172,
+                "logo_path": "/kDedjRZwO8uyFhuHamomOhN6fzG.png",
+                "name": "Blumhouse Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 72725,
+                "logo_path": "/gflhJ4lNROXuYMeN4giNrVQvtDw.png",
+                "name": "QC Entertainment",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2017-02-24",
+        "revenue": 255407969,
+        "runtime": 104,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Just because you're invited, doesn't mean you're welcome.",
+        "title": "Get Out",
+        "video": false,
+        "vote_average": 7.619,
+        "vote_count": 16272
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vTwNAu8C4SkYvPp73rFAmLvXVym.jpg",
+        "belongs_to_collection": null,
+        "budget": 50000000,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "http://crazystupidlove.warnerbros.com/index.html",
+        "id": 50646,
+        "imdb_id": "tt1570728",
+        "original_language": "en",
+        "original_title": "Crazy, Stupid, Love.",
+        "overview": "Cal Weaver is living the American dream. He has a good job, a beautiful house, great children and a beautiful wife, named Emily. Cal's seemingly perfect life unravels, however, when he learns that Emily has been unfaithful and wants a divorce. Over 40 and suddenly single, Cal is adrift in the fickle world of dating. Enter, Jacob Palmer, a self-styled player who takes Cal under his wing and teaches him how to be a hit with the ladies.",
+        "popularity": 39.896,
+        "poster_path": "/p4RafgAPk558muOjnBMHhMArjS2.jpg",
+        "production_companies": [
+            {
+                "id": 174,
+                "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+                "name": "Warner Bros. Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2011-07-29",
+        "revenue": 145079584,
+        "runtime": 118,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "This is crazy. This is stupid. This is love.",
+        "title": "Crazy, Stupid, Love.",
+        "video": false,
+        "vote_average": 7.259,
+        "vote_count": 7866
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/by3wqnMm6ziZmtyKIms3ht3CE7L.jpg",
+        "belongs_to_collection": null,
+        "budget": 12000000,
+        "genres": [
+            {
+                "id": 10752,
+                "name": "War"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 19664,
+        "imdb_id": "tt0081470",
+        "original_language": "en",
+        "original_title": "The Sea Wolves",
+        "overview": "A German spy is passing on information about the location of Allied ships in the neutral harbor of Goa, India, with catastrophic results. Unable to undertake a full military operation in the Portuguese stronghold, English intelligence brings out of retirement a crew of geriatric ex-soldiers, veterans from World War I, using their age as cover. These old soldiers are asked to take to the seas and pull off an unlikely undercover mission.",
+        "popularity": 11.714,
+        "poster_path": "/kb1YjjKpCrqqsmJDXnlbieJ3wC6.jpg",
+        "production_companies": [
+            {
+                "id": 898,
+                "logo_path": "/pBh5kde6mhGEMglYLwCdFnqK5zh.png",
+                "name": "Lorimar Productions",
+                "origin_country": ""
+            },
+            {
+                "id": 21858,
+                "logo_path": null,
+                "name": "Richmond Light Horse Productions",
+                "origin_country": "GB"
+            },
+            {
+                "id": 21859,
+                "logo_path": null,
+                "name": "Varius Entertainment Trading A.G.",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1980-07-03",
+        "revenue": 220181,
+        "runtime": 120,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "The Last Charge of the Calcutta Light Horse",
+        "title": "The Sea Wolves",
+        "video": false,
+        "vote_average": 5.899,
+        "vote_count": 74
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8UYwlsXqzGDVJOhv63OizOLaiEz.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "https://www.nikkatsu.com/movie/26280.html",
+        "id": 80788,
+        "imdb_id": "tt0223848",
+        "original_language": "ja",
+        "original_title": "\u56e3\u9b3c\u516d \u7f8e\u6559\u5e2b\u5730\u7344\u8cac\u3081",
+        "overview": "Roman Porno from 1985. A young teacher heads off to teach fencing in a school in the countryside.",
+        "popularity": 28.488,
+        "poster_path": "/gMyMOsF1vo2gKAM06UkjS2unqpU.jpg",
+        "production_companies": [
+            {
+                "id": 955,
+                "logo_path": "/5xnXD3PJI1HqOJceSAKZ3fDqO1V.png",
+                "name": "Nikkatsu Corporation",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "1985-12-14",
+        "revenue": 0,
+        "runtime": 67,
+        "spoken_languages": [
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "\u65e5\u672c\u8a9e"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Beautiful Teacher in Torture Hell",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tvGTSdLjKJgFHTcF4x9HSxoTIgW.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 424121,
+        "imdb_id": "tt6217306",
+        "original_language": "en",
+        "original_title": "Apostle",
+        "overview": "In 1905, a man travels to a remote island in search of his missing sister who has been kidnapped by a mysterious religious cult.",
+        "popularity": 17.019,
+        "poster_path": "/rd269f2Yftxxam3EOJPYVwrvjIJ.jpg",
+        "production_companies": [
+            {
+                "id": 12142,
+                "logo_path": "/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png",
+                "name": "XYZ Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 93637,
+                "logo_path": "/aW4weh0t8yUm2e62w4t3KlKJsLX.png",
+                "name": "Severn Screen",
+                "origin_country": "GB"
+            },
+            {
+                "id": 110036,
+                "logo_path": null,
+                "name": "One More One Productions",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "release_date": "2018-09-21",
+        "revenue": 0,
+        "runtime": 130,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Mandarin",
+                "iso_639_1": "zh",
+                "name": "\u666e\u901a\u8bdd"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Your god can't help you.",
+        "title": "Apostle",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 1321
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rsH3eLp3lsey8ItHST2sAy1DTJW.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "http://www.chatroomfilm.com/",
+        "id": 48946,
+        "imdb_id": "tt1319704",
+        "original_language": "en",
+        "original_title": "Chatroom",
+        "overview": "When strangers Jim, Eva, Emily and Mo meet William online in his new 'Chelsea Teens!' chatroom, they're completely seduced by his fast-talking, charismatic character. But beneath the surface lies a much darker truth. William is a dangerous loner, channeling all his energies into cyberspace. He's become an analyser, a calculating manipulator who finds it almost impossible to interact normally with others in the real world, instead turning his hand to manipulating people online.",
+        "popularity": 9.204,
+        "poster_path": "/71wg5xa3ASAdM3PCLNrDlqD9sTl.jpg",
+        "production_companies": [
+            {
+                "id": 2054,
+                "logo_path": null,
+                "name": "Ruby Films",
+                "origin_country": "GB"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "release_date": "2010-08-11",
+        "revenue": 0,
+        "runtime": 97,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Control. Alter. Delete.",
+        "title": "Chatroom",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 271
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aWcqE8wGN8Gv4VSPAGCqTFYy7aC.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "",
+        "id": 965791,
+        "imdb_id": "tt21352380",
+        "original_language": "fr",
+        "original_title": "Une ann\u00e9e difficile",
+        "overview": "Compulsive spenders Albert and Bruno are in debt up to their necks. While seeking help from community workers to get their lives back on track, they run into a group of young green activists. Lured by the free beer and snacks rather than by the ideals of eco-activists, Albert and Bruno find themselves joining the movement without much conviction.",
+        "popularity": 8.058,
+        "poster_path": "/calbXqzHVxfKlmtcwnSdCMW4owN.jpg",
+        "production_companies": [
+            {
+                "id": 59489,
+                "logo_path": null,
+                "name": "Quad Films",
+                "origin_country": ""
+            },
+            {
+                "id": 118064,
+                "logo_path": null,
+                "name": "Quad & Ten Cinema",
+                "origin_country": ""
+            },
+            {
+                "id": 9,
+                "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+                "name": "Gaumont",
+                "origin_country": "FR"
+            },
+            {
+                "id": 356,
+                "logo_path": "/tSJvuFaLIp7l0ONLUiAHA61GbXu.png",
+                "name": "TF1 Films Production",
+                "origin_country": "FR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "release_date": "2023-10-18",
+        "revenue": 0,
+        "runtime": 120,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "A Difficult Year",
+        "video": false,
+        "vote_average": 6.224,
+        "vote_count": 76
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/e3xcYVsoR5dfVM0kq1l0BTkSgzJ.jpg",
+        "belongs_to_collection": null,
+        "budget": 5000000,
+        "genres": [
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 192141,
+        "imdb_id": "tt1781922",
+        "original_language": "en",
+        "original_title": "No Escape",
+        "overview": "In their new overseas home, an American family soon finds themselves caught in the middle of a coup, and they frantically look for a safe escape in an environment where foreigners are being immediately executed.",
+        "popularity": 29.82,
+        "poster_path": "/jIXZEvL4dmgkjyhD5JUDeOaASKB.jpg",
+        "production_companies": [
+            {
+                "id": 2877,
+                "logo_path": "/a1pn9aou2NsfB7QJVNAUOsE8LqR.png",
+                "name": "Living Films",
+                "origin_country": "TH"
+            },
+            {
+                "id": 2266,
+                "logo_path": "/owzVs2mguyyJ3vIn7EbgowpUPnk.png",
+                "name": "Bold Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 66930,
+                "logo_path": null,
+                "name": "Brothers Dowdle Productions",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2015-08-26",
+        "revenue": 54418872,
+        "runtime": 103,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            },
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Thai",
+                "iso_639_1": "th",
+                "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+            }
+        ],
+        "status": "Released",
+        "tagline": "No rescue. No refuge.",
+        "title": "No Escape",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 2372
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qpqKeG0TujGRHvk6bnvmoGGvVMN.jpg",
+        "belongs_to_collection": {
+            "id": 374511,
+            "name": "Godzilla (Heisei) Collection",
+            "poster_path": "/4K2lb3hwILDjvP7VSmm86Ty3nKe.jpg",
+            "backdrop_path": "/4Y5IXrcWuK1wA3PbeNU5y6Qd3zF.jpg"
+        },
+        "budget": 5000000,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "",
+        "id": 18289,
+        "imdb_id": "tt0097444",
+        "original_language": "ja",
+        "original_title": "\u30b4\u30b8\u30e9vs\u30d3\u30aa\u30e9\u30f3\u30c6",
+        "overview": "After the previous Godzilla attack, a miniature arms race ensues to collect his cells. Concerned over Godzilla's possible return, the Japanese government uses the cells to create a new bio-weapon, ANEB (Anti-Nuclear Energy Bacteria). They seeks the aid of geneticist Genshiro Shiragami, who's experiments result in a new mutation.",
+        "popularity": 18.543,
+        "poster_path": "/tHchmbNaJNxp9vRGExvYg3dwMab.jpg",
+        "production_companies": [
+            {
+                "id": 49301,
+                "logo_path": "/vmLo0piReB0EI1boTiBZ8eDJ7vD.png",
+                "name": "Toho Pictures",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "1989-12-16",
+        "revenue": 7000000,
+        "runtime": 105,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "\u65e5\u672c\u8a9e"
+            }
+        ],
+        "status": "Released",
+        "tagline": "The winner of this battle would be the most enormous enemy against human beings.",
+        "title": "Godzilla vs. Biollante",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 193
+    }
+]
