@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your recommendation movie list</title>
+</head>
+
+<body>
+    <h1>Movie Results</h1>
+    <ul>
+        {% for movie in movies %}
+            <li>
+                <strong>ID:</strong> {{ movie.id }}<br>
+                <strong>Title:</strong> {{ movie.title }}<br>
+                <strong>Popularity:</strong> {{ movie.popularity }}<br>
+                <strong>Tomato Score:</strong> {{ movie.tomato_score }}<br>
+            </li>
+            <br>
+        {% endfor %}
+    </ul>
+
+    <form action="/" method="post">
+        <input type="submit" value="Try Again">
+    </form>
+
+</body>
+
+</html>

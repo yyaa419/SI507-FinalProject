@@ -73,17 +73,17 @@ for page_number in range(1, 30):
         
 
 
-with open("genre_index.json", "w") as f:
+with open("movie_info_classifier/genre_index.json", "w") as f:
     json.dump(genre_index, f, indent=4)
 
-with open("spoken_languages_index.json", "w") as f:
+with open("movie_info_classifier/spoken_languages_index.json", "w") as f:
     json.dump(spoken_languages_index, f, indent=4)
 
 
 print("movie number of short:",len(runtime_index["short"]))
 print("movie number of medium:",len(runtime_index["medium"]))
 print("movie number of long:",len(runtime_index["long"]))
-with open("runtime_index.json", "w") as f:
+with open("movie_info_classifier/runtime_index.json", "w") as f:
     json.dump(runtime_index, f, indent=4)
 
 
@@ -93,10 +93,10 @@ print("movie number of popularity 40-60:",len(popularity_index["40-60"]))
 print("movie number of popularity 60-80:",len(popularity_index["60-80"]))
 print("movie number of popularity 80-100:",len(popularity_index["80-100"]))
 print("movie number of popularity 100+:",len(popularity_index["100+"]))
-with open("popularity_index.json", "w") as f:
+with open("movie_info_classifier/popularity_index.json", "w") as f:
     json.dump(popularity_index, f, indent=4)
 
-with open("release_date_index.json", "w") as f:
+with open("movie_info_classifier/release_date_index.json", "w") as f:
     json.dump(release_date_index, f, indent=4)
 # genre_movie={}
 # print(movie__info[1]["genres"])

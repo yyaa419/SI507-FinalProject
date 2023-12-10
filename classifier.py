@@ -1,21 +1,21 @@
 import json
 
-genre_info=json.load(open("genre_index.json"))
+genre_info=json.load(open("movie_info_classifier/genre_index.json"))
 genre_type=[]
 for genre in genre_info:
     genre_type.append(genre)
 
-spoken_languages_info=json.load(open("spoken_languages_index.json"))
+spoken_languages_info=json.load(open("movie_info_classifier/spoken_languages_index.json"))
 spoken_languages_type=[]
 for spoken_language in spoken_languages_info:
     spoken_languages_type.append(spoken_language)
 
-runtime_info=json.load(open("runtime_index.json"))
+runtime_info=json.load(open("movie_info_classifier/runtime_index.json"))
 runtime_type=[]
 for runtime in runtime_info:
     runtime_type.append(runtime)
 
-release_date_info=json.load(open("release_date_index.json"))
+release_date_info=json.load(open("movie_info_classifier/release_date_index.json"))
 release_date_type=[]
 for release_date in release_date_info:
     release_date_type.append(release_date)
@@ -57,5 +57,3 @@ if __name__ == "__main__":
         json.dump(final_movie_list, f, indent=4)
         print("final_movie_list has been saved.")
     
-    with open("test.json", "w") as f:
-        json.dump(genre_filtered_movie, f, indent=4)

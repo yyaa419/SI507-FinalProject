@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Movie Recommendation Site</title>
+</head>
+
+<body>
+    <h1>Welcome to my website! I would like to provide some advice about movies you might be interested in!</h1>
+
+    <h2>Please choose you preference at first.</h2>
+    <form method="POST" action="/result">
+    <h4>What kind of genre types you prefer?</h4>
+        <select name="genre">
+            <option value="Drama">Drama</option>
+            <option value="Comedy">Comedy</option>
+            <option value="History">History</option>
+            <option value="War">War</option>
+            <option value="Crime">Crime</option>
+            <option value="Mystery">Mystery</option>
+            <option value="Thriller">Thriller</option>
+            <option value="Animation">Animation</option>
+            <option value="Family">Family</option>
+            <option value="Fantasy">Fantasy</option>
+            <option value="Adventure">Adventure</option>
+            <option value="Romance">Romance</option>
+            <option value="Horror">Horror</option>
+            <option value="Science Fiction">Science Fiction</option>
+            <option value="Music">Music</option>
+            <option value="Action">Action</option>
+            <option value="Documentary">Documentary</option>
+            <option value="TV Movie">TV Movie</option>
+            <option value="Western">Western</option>
+        </select>
+
+    <h4>What's your preferred spoken language?</h4>
+        <select name="spoken_languages">
+            <option value="English">English</option>
+            <option value="French">French</option>
+            <option value="Japanese">Japanese</option>
+            <option value="Korean">Korean</option>
+            <option value="German">German</option>
+            <option value="Thai">Thai</option>
+        </select>
+
+    <h4>What's your preferred movie length?</h4>
+        <select name="length">
+            <option value="short">Short</option>
+            <option value="medium">Medium</option>
+            <option value="long">Long</option>
+        </select>
+    
+    <h4>What's your preferred release date?</h4>
+        <select name="release_date">
+            <option value="1980-">Before 1980</option>
+            <option value="1990-">1980 -- 1990</option>
+            <option value="2000-">1990 -- 2000</option>
+            <option value="2010-">2000 -- 2010</option>
+            <option value="2020-">2010 -- 2020</option>
+            <option value="2020+">After 2020</option>
+        </select>
+    <div>
+        <input type="submit" value="Submit">
+    </div>
+    </form>
+
+
+</body>
+</html>
