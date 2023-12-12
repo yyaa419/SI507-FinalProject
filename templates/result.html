@@ -9,10 +9,11 @@
     <ul>
         {% for movie in movies %}
             <li>
-                <strong>ID:</strong> {{ movie.id }}<br>
+                <!-- <strong>ID:</strong> {{ movie.id }}<br> -->
                 <strong>Title:</strong> {{ movie.title }}<br>
-                <strong>Popularity:</strong> {{ movie.popularity }}<br>
+                <strong>IMDB Popularity:</strong> {{ movie.popularity }}<br>
                 <strong>Tomato Score:</strong> {{ movie.tomato_score }}<br>
+                <strong>Overview:</strong> {{ movie.overview }}<br>
             </li>
             <br>
         {% endfor %}
