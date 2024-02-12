@@ -1,4 +1,7 @@
-# SI507_FinalProject
+# SI507-FinalProject
+## Brief Introduction
+It's a movie recommendation system based on **IMDB** and **Rotten Tomato**. Basic movie information data is fetched by python file and the interaction interface is implemented by flask.
+
 ## Configuration
 Python Package: The project requests **flask**, **bs4**, **matplotlib**, **numpy**
 
