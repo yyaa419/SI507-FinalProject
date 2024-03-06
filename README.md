@@ -24,3 +24,7 @@ I draw a brief ssketch map as followed:
 
 ![Alt Text](images/data_structure.jpeg)
 
+## Demo Link
+You are able to get the demo video according to the following link.
+https://drive.google.com/file/d/1x4srteTk00Iyj6F2gLRJ5tXw7QKJ-biW/view?usp=drive_link
+
